@@ -122,3 +122,4 @@ person <- function(img, name, position = NULL) {
 `r person("patrick.jpeg", "Patrick Robotham")`
 `r person("rheanna.jpg", "Rheanna Mainzer")`
 ]
+
