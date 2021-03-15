@@ -12,6 +12,7 @@ output:
       - "assets/animate.css"
       - "assets/styles.css"
       - "assets/fonts.css"
+      - "assets/tachyons-addon.css"
     self_contained: false 
     seal: true 
     chakra: 'lib/remark-latest.min.js'
@@ -42,7 +43,7 @@ knitr::opts_chunk$set(
   fig.height = 4,
   fig.align = "center",
   fig.retina = 3,
-  echo = TRUE,
+  echo = FALSE,
   warning = FALSE,
   message = FALSE,
   cache = FALSE,
@@ -63,7 +64,7 @@ style_duo_accent(primary_color = "#003469",
                  secondary_color = "#2babe2",
                  text_font_family = "Glacial Indifference",
                  header_font_family = "Glacial Indifference",
-                 text_font_size = "28px"
+                 text_font_size = "24px"
                 )
 charcoal <- "#58595b"
 ```
@@ -88,3 +89,36 @@ class: inverse middle
 This is the first event of 2021!
 
 
+---
+
+# SSA Vic Council 2021
+
+```{r}
+person <- function(img, name, position = NULL) {
+  position <- ifelse(is.null(position), "", 
+                     paste0("**", position, "**"))
+  glue::glue(".person[
+                    .circle-image-120[
+                    <img src='images/council/{img}'>]
+                    {position}  
+                    {name}]")
+}
+```
+
+.flex[
+`r person("emi.jpeg", "Emi Tanaka", "President")`
+`r person("damjan.jpeg", "Damjan Vukcevic", "Vice-President")`
+`r person("ben.jpeg", "Ben Harrap")`
+`r person("cameron.jpeg", "Cameron Patrick")`
+`r person("daniel.jpeg", "Daniel Fryer")`
+`r person("lizzie.jpeg", "Elizabeth Korevaar")`
+
+]
+.flex[
+`r person("hien.jpeg", "Hien Nguyen")`
+`r person("kevin.jpeg", "Kevin Wang")`
+`r person("lauren.jpg", "Lauren Kennedy")`
+`r person("lidija.jpeg", "Lidija Turkovic")`
+`r person("patrick.jpeg", "Patrick Robotham")`
+`r person("rheanna.jpg", "Rheanna Mainzer")`
+]
