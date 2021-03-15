@@ -1,0 +1,18 @@
+name: "Victorian Branch of the Statistical Society of Australia"
+output_dir: "docs"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+navbar:
+  title: "Victorian Branch of the Statistical Society of Australia"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "SSA"
+      icon: fa-book
+      href: https://www.statsoc.org.au/Victoria
+  right:
+    - icon: fab-github fa-lg
+      href: https://github.com/StatSocAus/vic
