@@ -1,13 +1,13 @@
 ---
 title: "Statistical Society of Australia<br> Victorian Branch"
 subtitle: "March Event"
-author: "SSA Vic Council"
+author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
 email: "vic.branch@statsoc.org.au"
 date: "16th March 2021"
 output:
   xaringan::moon_reader:
     css:
-      - ninjutsu 
+      - xaringan-themer.css
       - "assets/font-awesome-all.css"
       - "assets/animate.css"
       - "assets/styles.css"
@@ -46,3 +46,16 @@ knitr::opts_chunk$set(
   cache.path = "cache/"
 )
 ```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#003469",
+                 secondary_color = "#2babe2")
+```
+
+# Welcome!
+
+
+.footnote[
+These slides are available at https://statsocaus.github.io/vic/intro/2021-03-event.html
+]
