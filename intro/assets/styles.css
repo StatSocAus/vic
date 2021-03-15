@@ -65,3 +65,11 @@ h1 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
+
+.color-primary {
+  color: #003469;
+}
+
+.color-secondary {
+  color: #2babe2;
+}

@@ -57,7 +57,6 @@ knitr::opts_chunk$set(
 <img style="vertical-align:middle" src='images/logo/other/png_transparent/SSA_Monogram_Navy-White.png' height='40px'/> These slides are available at https://statsocaus.github.io/vic/intro/`r basename`.html
 ]
 
-
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_duo_accent(primary_color = "#003469",
@@ -91,6 +90,8 @@ This is the first event of 2021!
 
 ---
 
+name: council
+
 # SSA Vic Council 2021
 
 ```{r}
@@ -121,5 +122,22 @@ person <- function(img, name, position = NULL) {
 `r person("lidija.jpeg", "Lidija Turkovic")`
 `r person("patrick.jpeg", "Patrick Robotham")`
 `r person("rheanna.jpg", "Rheanna Mainzer")`
+]
+
+---
+
+#  Statistical Society of Australia .f2.color-secondary[Victorian Branch]
+
+**The purpose of SSA Vic is to advance the study and practice of statistics.** SSA Vic enacts this by supporting individuals interested in the discipline of statistics, promoting the statistics profession to the general Victorian community, and offering common grounds to connect individuals to build an inclusive community centered on the study and practice of statistics.
+
+.f3.lh-copy[
+<i class="fa fa-link color-secondary"></i>  [www.statsoc.org.au/Victoria](https://www.statsoc.org.au/Victoria)
+
+<i class="fa fa-envelope color-secondary"></i> [vic.branch@statsoc.org.au](mailto:vic.branch@statsoc.org.au) &nbsp;&nbsp;&nbsp;<i class="fa fa-envelope color-primary"></i> [eo@statsoc.org.au](mailto:eo@statsoc.org.au)  
+
+<i class="fab fa-twitter color-secondary animated bounce"></i> [@SSAVictoria](https://twitter.com/SsaVictoria) &nbsp;&nbsp;&nbsp; <i class="fab fa-twitter color-primary"></i> [@StatSocAus](https://twitter.com/StatSocAus)  
+  
+<i class="fab fa-meetup color-secondary"></i> [bit.ly/ssavic-meetup](http://bit.ly/ssavic-meetup)  
+
 ]
 
