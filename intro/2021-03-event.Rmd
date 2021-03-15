@@ -62,18 +62,29 @@ library(xaringanthemer)
 style_duo_accent(primary_color = "#003469",
                  secondary_color = "#2babe2",
                  text_font_family = "Glacial Indifference",
-                 header_font_family = "Glacial Indifference")
+                 header_font_family = "Glacial Indifference",
+                 text_font_size = "28px"
+                )
 charcoal <- "#58595b"
 ```
 
 
 ---
 
-class: inverse
+# Acknowledgement of Country
 
-# Welcome!
+<!-- https://www.statsoc.org.au/Guidelines  -->
+
+In the spirit of reconciliation the Statistical Society of Australia acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
 
 
 ---
 
-# House keeping
+class: inverse middle
+
+# Welcome! {{content}}
+
+???
+This is the first event of 2021!
+
+
