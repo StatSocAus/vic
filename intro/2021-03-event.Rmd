@@ -11,6 +11,7 @@ output:
       - "assets/font-awesome-all.css"
       - "assets/animate.css"
       - "assets/styles.css"
+      - "assets/fonts.css"
     self_contained: false 
     seal: true 
     chakra: 'lib/remark-latest.min.js'
@@ -28,6 +29,8 @@ output:
         click: false
       ratio: '16:9'
 ---
+
+layout: true
 
 ```{r, include = FALSE}
 current_file <- knitr::current_input()
@@ -47,15 +50,30 @@ knitr::opts_chunk$set(
 )
 ```
 
+
+
+.footnote[
+<img style="vertical-align:middle" src='images/logo/other/png_transparent/SSA_Monogram_Navy-White.png' height='40px'/> These slides are available at https://statsocaus.github.io/vic/intro/`r basename`.html
+]
+
+
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
 style_duo_accent(primary_color = "#003469",
-                 secondary_color = "#2babe2")
+                 secondary_color = "#2babe2",
+                 text_font_family = "Glacial Indifference",
+                 header_font_family = "Glacial Indifference")
+charcoal <- "#58595b"
 ```
+
+
+---
+
+class: inverse
 
 # Welcome!
 
 
-.footnote[
-These slides are available at https://statsocaus.github.io/vic/intro/2021-03-event.html
-]
+---
+
+# House keeping

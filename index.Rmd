@@ -1,7 +1,17 @@
 ---
 title: "Victorian Branch of the Statistical Society of Australia"
+output:
+  html_document
 ---
 
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE
+)
+library(tidyverse)
+```
 
 This repo contains materials to host the intro HTML slides used in the events of the Victorian Branch of Statistical Society of Australia (SSA Vic). 
 
@@ -9,4 +19,18 @@ For more information about SSA Vic, please see the following.
 
 * Official website: https://www.statsoc.org.au/Victoria
 * [Meetup](https://www.meetup.com/en-AU/Statistical-Society-of-Australia-Victorian-Branch/)
-* Twitter: [@SSAVictoria](https://twitter.com/SSAVictoria)
+* Twitter: [SSAVictoria](https://twitter.com/SSAVictoria)
+
+## Intro slides
+
+<ul>
+```{r, results="asis"}
+baseurl <- "https://statsocaus.github.io/vic/intro/"
+link <- fs::dir_ls("intro") %>% 
+  str_subset(".html$") %>% 
+  basename()
+glue::glue("<li><a href='{baseurl}{link}'>{gsub('.html', '', link)}</a></li>") %>% 
+  cat()
+```
+</ul>
+

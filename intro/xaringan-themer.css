@@ -25,12 +25,12 @@
 
 :root {
   /* Fonts */
-  --text-font-family: 'Noto Sans';
-  --text-font-is-google: 1;
+  --text-font-family: 'Glacial Indifference';
+  --text-font-is-google: 0;
   --text-font-family-fallback: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial;
   --text-font-base: sans-serif;
-  --header-font-family: Cabin;
-  --header-font-is-google: 1;
+  --header-font-family: 'Glacial Indifference';
+  --header-font-is-google: 0;
   --header-font-family-fallback: Georgia, serif;
   --code-font-family: 'Source Code Pro';
   --code-font-is-google: 1;
