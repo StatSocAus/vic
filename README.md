@@ -1,7 +1,3 @@
----
-title: "Victorian Branch of the Statistical Society of Australia"
----
-
 
 This repo contains materials to host the intro HTML slides used in the events of the Victorian Branch of Statistical Society of Australia (SSA Vic). 
 
