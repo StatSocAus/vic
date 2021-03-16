@@ -11,6 +11,24 @@
   }
 }
 
+p {
+    display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 0.2em;
+    margin-block-end: 0.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
 .footnote {
   position: absolute;
   bottom: 0;
@@ -18,8 +36,8 @@
   width: 100%;
   padding-left:10px;
   padding-right:10px;
-  padding-top: 0px;
-  padding-bottom:  0px;
+  padding-top: 10px;
+  padding-bottom:  10px;
   background-color: #2babe2;
   color: white;
   font-size: 18pt;
@@ -27,6 +45,10 @@
 
 .remark-slide-number { font-size: 18pt; }
 .remark-slide-content h1:first-of-type { padding-bottom: 15px; }
+
+.remark-slide-content {
+  line-height: 1.5;
+}
 
 .circle-image-200 {
   background: #000;
@@ -55,12 +77,13 @@
 .person {
   padding-left: 12px;
   padding-right: 12px;
+  text-align: center;
 }
 
 h1 {
     display: block;
-    margin-block-start: 0.3em;
-    margin-block-end: 0.3em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
@@ -71,5 +94,29 @@ h1 {
 }
 
 .color-secondary {
+  color: #2babe2;
+}
+
+.bg-color-primary {
+  background-color: #003469;
+}
+
+.bg-color-secondary {
+  background-color: #2babe2;
+}
+
+.border-color-primary {
+  border-color: #003469;
+}
+
+.border-color-secondary {
+  border-color: #2babe2;
+}
+
+.border-color-black {
+  border-color: black;
+}
+
+.bg-color-primary a {
   color: #2babe2;
 }
