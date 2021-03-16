@@ -96,8 +96,8 @@ person <- function(img, name, position = NULL) {
 ]
 <br>
 .flex[
-`r person("patrick.jpeg", "Patrick Robotham", "Industry Rep")`
-`r person("daniel.jpeg", "Daniel Fryer", "Early Career Rep")`
+`r person("patrick.jpeg", "Patrick Robotham", "Industry Representative")`
+`r person("daniel.jpeg", "Daniel Fryer", "Early Career & Student Statistician Representative")`
 `r person("lidija.jpeg", "Lidija Turkovic", "Deputy Secretary")`
 `r person("rheanna.jpg", "Rheanna Mainzer", "Membership Officer")`
 `r person("kohleth.jpg", "Kohleth Chia", "Deputy Membership Officer")`
