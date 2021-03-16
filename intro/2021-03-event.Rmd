@@ -197,8 +197,11 @@ name: benefits
 --
   
 
-<br>
-More details to come soon.
+* From May onwards, we may start switching to hybrid (in-person + online).  
+
+--
+
+*Stay tuned for more details!*
 
 ---
 
@@ -226,4 +229,4 @@ class: inverse middle
 
 # 🎉 Post-event social
 
-Continue to stay on Zoom to chat and socialise in break-out rooms!
+Continue to stay on Zoom to chat and socialise in the break-out rooms!
