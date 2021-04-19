@@ -1,5 +1,5 @@
 ---
-title: "Statistical Society of Australia<br> Victorian Branch"
+title: "Statistical Society of Australia<br> Victorian & Canberra Branch"
 subtitle: "April Event"
 author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
 email: "vic.branch@statsoc.org.au"
@@ -109,37 +109,75 @@ person <- function(img, name, position = NULL) {
 .flex[
 `r person("emi.jpeg", "Emi Tanaka", "President")`
 `r person("damjan.jpeg", "Damjan Vukcevic", "Vice-President")`
-`r person("ben.jpeg", "Ben Harrap")`
-`r person("cameron.jpeg", "Cameron Patrick")`
-`r person("daniel.jpeg", "Daniel Fryer")`
-`r person("lizzie.jpeg", "Elizabeth Korevaar")`
+`r person("ben.jpeg", "Ben Harrap", "Secretary")`
+`r person("lizzie.jpeg", "Elizabeth Korevaar", "Treasurer")`
+`r person("kevin.jpeg", "Kevin Wang", "Comm. Officer")`
+`r person("rheanna.jpg", "Rheanna Mainzer", "Membership Officer")`
+]
+<br>
+.flex[
+`r person("cameron.jpeg", "Cameron Patrick", "ECSS Rep")`
+`r person("patrick.jpeg", "Patrick Robotham", "Industry Rep")`
+`r person("lidija.jpeg", "Lidija Turkovic", "Deputy Secretary")`
+`r person("hien.jpeg", "Hien Nguyen", "Deputy Treasurer")`
+`r person("daniel.jpeg", "Daniel Fryer", "Deputy Comm. Officer")`
+`r person("lauren.jpg", "Lauren Kennedy", "Deputy Membership Officer")`
+
+]
+
+---
+
+name: canberra-council
+
+# SSA Canberra Council 2021
+
+.flex[
+`r person("canberra/Francis Hui - vicepresident.jpg", "Francis Hui", "Acting President<br>(Vice-President)")`
+`r person("canberra/Warren Muller - Secretary.jpg", "Warren Muller", "Secretary")`
+`r person("canberra/Pauline OShaughnessy - Treasurer.jpg", "Pauline<br> O'Shaughnessy", "Treasurer")`
+`r person("canberra/Nick_Husek - AssistantSecretary.png", "Nick Husek", "Assistant Secretary")`
+`r person("canberra/Nelson_Chua - councilmember_ECSSRep.jpg", "Nelson Chua", "ECSS Rep")`
+
 
 ]
 <br>
 .flex[
-`r person("hien.jpeg", "Hien Nguyen")`
-`r person("kevin.jpeg", "Kevin Wang")`
-`r person("lauren.jpg", "Lauren Kennedy")`
-`r person("lidija.jpeg", "Lidija Turkovic")`
-`r person("patrick.jpeg", "Patrick Robotham")`
-`r person("rheanna.jpg", "Rheanna Mainzer")`
+`r person("canberra/Anton Westveld - councilmember.jpg", "Anton Westveld")`
+
+`r person("canberra/Linh Nghiem - councilmember.jpg", "Linh Nghiem")`
+`r person("canberra/ThomasLawrence - councilmember.png", "Thomas Lawrence")`
+`r person("canberra/Xuan Liang - councilmember.png", "Xuan Liang")`
+
 ]
 
 ---
 
 name: contact
 
-#  Statistical Society of Australia .f2.color-secondary[Victorian Branch]
+#  Statistical Society of Australia <br> .f2.color-secondary[Victorian & Canberra Branch]
 
-.f4.lh-title.measure[
-**The purpose of SSA Vic is to advance the study and practice of statistics.** ]
+.fr.center[
+The Great Australian <br>Statisticians T-Shirt
+
+<img src="images/ssa-tshirts.png" width="300px">
+
+.f4[Designed by Ben Haraap]
+
+<i class="fas fa-shopping-cart"></i> Buy at http://bit.ly/ssa-tshirt
+
+.f6[Proceeds used to support early career statisticians.]
+]
 
 .lh-title[
 <br>
-<i class="fa fa-link color-secondary"></i>  [www.statsoc.org.au/Victoria](https://www.statsoc.org.au/Victoria)  
+<i class="fa fa-link color-secondary"></i>  [www.statsoc.org.au/Victoria](https://www.statsoc.org.au/Victoria)
 <br>
+<i class="fa fa-link color-secondary"></i> 
+[www.statsoc.org.au/Canberra](https://www.statsoc.org.au/Canberra)
+<br><br>
 <i class="fa fa-envelope color-secondary"></i> [vic.branch@statsoc.org.au](mailto:vic.branch@statsoc.org.au) &nbsp;&nbsp;&nbsp;<i class="fa fa-envelope color-primary"></i> [eo@statsoc.org.au](mailto:eo@statsoc.org.au)  
-<br>
+
+<i class="fa fa-envelope color-secondary"></i> [ssacanberra@gmail.com](mailto:ssacanberra@gmail.com)<br><Br>
 <i class="fab fa-twitter color-secondary animated bounce"></i> [@SSAVictoria](https://twitter.com/SsaVictoria) &nbsp;&nbsp;&nbsp; <i class="fab fa-twitter color-primary"></i> [@StatSocAus](https://twitter.com/StatSocAus)  
   <br>
 <i class="fab fa-meetup color-secondary"></i> [bit.ly/ssavic-meetup](http://bit.ly/ssavic-meetup)  
@@ -182,36 +220,55 @@ name: benefits
 .ba.pa2.w-70.border-color-black.bw2.bg-color-primary.white[.animated.flash[<i class="fas fa-caret-right"></i>] To join go to: https://www.statsoc.org.au/How-to-join
 ]
 
----
-
-# Save the date!
-
-* **Tue 18th May**<br> <i class="fas fa-trophy"></i> Trivia (there may be prizes)
-
---
-  
-
-* From May onwards, we may start switching to hybrid (in-person + online).  
-
---
-
-*Stay tuned for more details!*
 
 ---
 
 class: inverse middle
 
 
-# The statistical quandaries of an ecologist<br> .f2[Applied and theoretical statistics for conservation]
-.circle-image-200.fr[
-<img src="images/david-wilkinson.jpeg">]
 
-## Prof. Kerrie Mengersen (Director of QUT Centre for Data Science),
-## Prof. Eric Stone (Director of ANU Biological Data Science Institute), and 
-## Prof. Joanna Batstone (Director of Monash Data Futures Institute).
+# The Rise and Rise of Data Science Centres and Institutes 
+
+.fr.pl2[
+.circle-image-120[
+<img src="images/eric-stone.jpg">]
+Prof. Stone
+]
+.fr.pl2[.circle-image-120[
+<img src="images/kerrie-mengersen.jpeg">]
+Prof. Mengersen
+]
+
+Prof. **Kerrie Mengersen** .f5[(Director of QUT Centre for Data Science),]
+
+Prof. **Eric Stone** .f5[(Director of ANU Biological Data Science Institute), and ]
+
+Prof. **Joanna Batstone** .f5[(Director of Monash Data Futures Institute).]
+
+
+
+
+
+<br>
+
+Chaired by Prof. **Ian Gordon**
+
+.fr.pl2[
+.circle-image-120[
+<img src="images/ian-gordon.jpg">]
+Prof. Gordon
+]
+.fr.pl2[.circle-image-120[
+<img src="images/joanna-batstone.jpeg">]
+Prof. Batstone
+]
+
+
+<br>
 
 Thanks to 
-- **Francis Hui** (Canberra Event Coordinator)
+- **Francis Hui** (SSA Canberra Event Coordinator)
+- **Emi Tanaka** (SSA Vic Event Coordinator)
 
 ???
 
