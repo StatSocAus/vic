@@ -175,7 +175,7 @@ The Great Australian <br>Statisticians T-Shirt
 <i class="fa fa-link color-secondary"></i> 
 [www.statsoc.org.au/Canberra](https://www.statsoc.org.au/Canberra)
 <br><br>
-<i class="fa fa-envelope color-secondary"></i> [vic.branch@statsoc.org.au](mailto:vic.branch@statsoc.org.au) &nbsp;&nbsp;&nbsp;<i class="fa fa-envelope color-primary"></i> [eo@statsoc.org.au](mailto:eo@statsoc.org.au)  
+<i class="fa fa-envelope color-secondary"></i> [vic.branch@statsoc.org.au](mailto:vic.branch@statsoc.org.au) <br><i class="fa fa-envelope color-primary"></i> [eo@statsoc.org.au](mailto:eo@statsoc.org.au)  
 
 <i class="fa fa-envelope color-secondary"></i> [ssacanberra@gmail.com](mailto:ssacanberra@gmail.com)<br><Br>
 <i class="fab fa-twitter color-secondary animated bounce"></i> [@SSAVictoria](https://twitter.com/SsaVictoria) &nbsp;&nbsp;&nbsp; <i class="fab fa-twitter color-primary"></i> [@StatSocAus](https://twitter.com/StatSocAus)  
