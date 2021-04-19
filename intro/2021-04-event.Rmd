@@ -161,7 +161,7 @@ The Great Australian <br>Statisticians T-Shirt
 
 <img src="images/ssa-tshirts.png" width="300px">
 
-.f4[Designed by Ben Haraap]
+.f4[[Designed by Ben Harrap](https://benharrap.com/post/2020-12-02-tshirt-competition/)]
 
 <i class="fas fa-shopping-cart"></i> Buy at http://bit.ly/ssa-tshirt
 
