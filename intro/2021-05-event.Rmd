@@ -98,7 +98,7 @@ name: council
 person <- function(img, name, position = NULL) {
   position <- ifelse(is.null(position), "", 
                      paste0("**", position, "**"))
-  glue::glue(".person.f4[
+  glue::glue(".person.f5[
                     .circle-image-120[
                     <img src='images/council/{img}'>]
                     {position}  
