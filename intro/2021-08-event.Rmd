@@ -3,7 +3,7 @@ title: "Statistical Society of Australia<br> Victorian Branch"
 subtitle: "August Event"
 author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
 email: "vic.branch@statsoc.org.au"
-date: "18th May 2021"
+date: "3rd August 2021"
 output:
   xaringan::moon_reader:
     css:
