@@ -1,6 +1,6 @@
 ---
 title: "Statistical Society of Australia<br> Victorian Branch"
-subtitle: "May Event"
+subtitle: "August Event"
 author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
 email: "vic.branch@statsoc.org.au"
 date: "18th May 2021"
