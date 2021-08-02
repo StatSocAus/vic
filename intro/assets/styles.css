@@ -118,5 +118,9 @@ h1 {
 }
 
 .bg-color-primary a {
-  color: #2babe2;
+  background-color: #2babe2;
+}
+
+.bg-color-white {
+  background-color: white;
 }

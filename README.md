@@ -9,18 +9,26 @@ Statistical Society of Australia (SSA Vic).
 
 For more information about SSA Vic, please see the following.
 
-  - Official website: <https://www.statsoc.org.au/Victoria>
-  - [Meetup](https://www.meetup.com/en-AU/Statistical-Society-of-Australia-Victorian-Branch/)
-  - Twitter: [SSAVictoria](https://twitter.com/SSAVictoria)
+-   Official website: <https://www.statsoc.org.au/Victoria>
+-   [Meetup](https://www.meetup.com/en-AU/Statistical-Society-of-Australia-Victorian-Branch/)
+-   Twitter: [SSAVictoria](https://twitter.com/SSAVictoria)
 
 ## Intro slides
 
 <ul>
-
 <li>
-
-<a href='https://statsocaus.github.io/vic/intro/2021-03-event.html'>2021-03-event</a>
-
+<a href='https://statsocaus.github.io/vic/intro/2021-03-agm.html'>2021-03-agm</a>
 </li>
-
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2021-03-event.html'>2021-03-event</a>
+</li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2021-04-event.html'>2021-04-event</a>
+</li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2021-05-event.html'>2021-05-event</a>
+</li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2021-08-event.html'>2021-08-event</a>
+</li>
 </ul>
