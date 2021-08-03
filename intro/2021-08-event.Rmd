@@ -212,7 +212,7 @@ name: benefits
 # SSA Vic Conference & Workshop Funding
 
 * **Exclusive to SSA Vic members!**
-* Funding of up to $250 to cover attendance of conference or workshop
+* Funding of up to $250 to cover attendance at a conference or a workshop
 * To apply for funding, complete the form [here <i class="fas fa-file"></i>](https://forms.gle/oba1V6iZA7DdsjYf9) 
 --
 
