@@ -191,7 +191,7 @@ name: benefits
 </details>
 --
 
-* Member-only events! **Look out for member-exclusive mentoring event in Sep!**<br>
+* Member-only events! **Look out for the member-exclusive mentoring event in Sep!**<br>
   .f5[<i class="fas fa-users"></i> Full list of events: https://www.statsoc.org.au/Events-listing]
 --
 
