@@ -162,6 +162,7 @@ The Great Australian <br>Statisticians T-Shirt
 * **Exclusive to SSA Vic members!**
 * Funding of up to $250 to cover attendance at a conference or a workshop
 * To apply for funding, complete the form [here <i class="fas fa-file"></i>](https://forms.gle/oba1V6iZA7DdsjYf9) 
+* Go to [SSA website events listing](https://www.statsoc.org.au/Events-listing) to find some workshops
 --
 
 * Congratulations to those who are already funded in 2021!
@@ -199,6 +200,42 @@ photos <- dir("images/funding-2021-08/", pattern = ".+[.](jpg|JPG|jpeg)")
 cat(glue::glue("<img src='images/funding-2021-08/{photos}' class='funded-photo'/> "))
 ```
 ]
+]
+]
+
+---
+
+layout: false
+
+background-image: url("images/dicook-award.png")
+background-size: 100%
+
+---
+
+layout: true
+
+.footnote[
+<img style="vertical-align:middle" src='images/logo/other/png_transparent/SSA_Monogram_Navy-White.png' height='40px'/> These slides are available at https://statsocaus.github.io/vic/intro/`r basename`.html
+]
+
+---
+
+# Announcing the Di Cook Award
+
+* This is our inaugural **open-source statistical software award** 
+* The award is intended to be held yearly
+* We are calling for submissions from students (or recent graduates) of Victorian or Tasmanian tertiary institutes
+* Submissions close at **Fri 26th Nov 2021**
+* Winner will be announced in March 2022
+* Find more information at
+
+
+.flex[
+.w-20[
+
+]
+.w-60.bg-color-primary.pa3[
+https://statsocaus.github.io/dicook-award/
 ]
 ]
 
