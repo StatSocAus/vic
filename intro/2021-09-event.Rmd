@@ -222,6 +222,8 @@ layout: true
 
 # Announcing the Di Cook Award
 
+<img src="images/dicook-2019.png" class="circle-image-120 absolute top-2 right-3">
+
 * This is our inaugural **open-source statistical software award** 
 * The award is intended to be held yearly
 * We are calling for submissions from students (or recent graduates) of Victorian or Tasmanian tertiary institutes
