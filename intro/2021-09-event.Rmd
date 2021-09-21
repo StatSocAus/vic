@@ -272,7 +272,7 @@ class: inverse
 .pb2[
 <img src="images/steph-stammel.png" height = "100px" style="border: 3px solid black;"><br>
 **Steph Stammel**  
-.f5[Principal Econometrician ]
+.f5[Principal Econometrician at Transurban]
 <br>
 ]
 <img src="images/denzel-florez.jpg" height = "100px" style="border: 3px solid black;"><br>
@@ -284,4 +284,25 @@ Thanks to **Cameron Patrick** and **Kevin Wang** for coordinating the event!
 
 ]
 
+
+---
+
+# The Schedule
+
+.f5[
+
+Time | Item | Chair 
+--- | --- | ---
+5:05 - 5:15 | Anna | Cameron
+5:15 - 5:25 | Kohleth |
+5:25-5:35 | Belinda |
+5:35 - 5:45 | Q & A | 
+5:45 - 5:55 | Denzel | Kevin 
+5:55 - 6:05 | Steph | 
+6:05 - 6:15 | Steve | 
+6:15 - 6:25 | Q & A  |
+6:25 - 6:45 | Panel discussion | Cameron + Kevin 
+6:45 - 7:00 | Break out session |
+
+]
 
