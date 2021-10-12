@@ -222,26 +222,21 @@ https://statsocaus.github.io/dicook-award/
 class: inverse middle
 
 
-
+.w-80[
 # Tales of clinical trials, tribulations, twists and turns
+
+]
 
 .fr.pr3[
 .circle-image-200[
 <img src="images/andrew-forbes.jpeg">]
 ]
+**Belz Lecture 2021**  
+<br>
 
 Professor **Andrew Forbes**  
 Monash University
 
-<img src="images/logo/other/png_transparent/SSA_Logotype_White-Navy.png" height="80px" style="vertical-align:bottom"> .f4.white[Victoria Branch]
+???
 
-Tue 12th Oct 2021 6PM AEST
-
-<i class="fas fa-comments"></i> Followed by social event from 7PM AEST
-
-
----
-<br>
-
-Thanks to 
-- **Rheanna Mainzer** (Event Coordinator)
+Professor Andrew Forbes is the Head of the Biostatistics Unit in the School of Public Health and Preventive Medicine at Monash University. He completed his undergraduate degree in mathematical statistics at Monash University, then went on to complete a PhD at Cornell University, USA. After a short stint as a postdoctoral research fellow in the pharmaceutical industry, he returned to Australia and joined Monash University where he has been since. His primary activities involve methodological research, particularly in the area of cluster randomised clinical trials, collaborating with researchers on clinical and public health research projects, including a variety of randomised trials, and teaching in the Master of Biostatistics program. He was recently elected as a Fellow of the Australian Academy of Health and Medical Sciences for his contributions to biostatistics and health research. 
