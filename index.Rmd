@@ -1,0 +1,40 @@
+---
+title: Welcome!
+---
+
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE
+)
+library(tidyverse)
+```
+
+##  Statistical Society of Australia Victorian Branch (SSA Vic)
+
+
+For more information about SSA Vic, please see the following.
+
+* <i class="fas fa-globe"></i> Official website: https://www.statsoc.org.au/Victoria
+* <i class="fab fa-meetup"></i> [Meetup](https://www.meetup.com/en-AU/Statistical-Society-of-Australia-Victorian-Branch/)
+* <i class="fab fa-twitter"></i> Twitter: [@SSAVictoria](https://twitter.com/SSAVictoria)
+
+## Intro slides
+
+<ul>
+```{r, results="asis"}
+baseurl <- "https://statsocaus.github.io/vic/intro/"
+link <- fs::dir_ls("intro") %>% 
+  rev() %>% 
+  str_subset(".html$") %>% 
+  basename()
+glue::glue("<li><a href='{baseurl}{link}'>{gsub('.html', '', link)}</a></li>") %>% 
+  cat()
+```
+</ul>
+
+## Di Cook Award
+
+For more information please visit https://statsocaus.github.io/dicook-award/

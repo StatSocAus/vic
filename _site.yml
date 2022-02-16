@@ -1,0 +1,22 @@
+name: "Statistical Society of Australia Victoria Branch"
+title: "SSA Vic"
+output_dir: "docs"
+theme: assets/ssa-theme.css
+repository_url: https://github.com/StatSocAus/ssavic
+description: |
+  GitHub page for the Statistical Society of Australia Victoria Branch.
+source_url: true
+twitter:
+  site: "@SsaVictoria"
+navbar:
+  logo:
+    image: img/SSA_Monogram_White.png
+    href: https://www.statsoc.org.au/
+  left:
+   - text: "Home"
+     href: index.html
+     icon: fa-home
+  right:
+    - icon: fab fa-github
+      href: https://github.com/StatSocAus/ssavic
+output: distill::distill_article

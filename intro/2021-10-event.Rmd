@@ -53,6 +53,7 @@ knitr::opts_chunk$set(
 
 
 
+
 .footnote[
 <img style="vertical-align:middle" src='images/logo/other/png_transparent/SSA_Monogram_Navy-White.png' height='40px'/> These slides are available at https://statsocaus.github.io/vic/intro/`r basename`.html
 ]
@@ -68,24 +69,26 @@ style_duo_accent(primary_color = "#003469",
 charcoal <- "#58595b"
 ```
 
+
+
 ---
 
 
 
 class: inverse middle
 
-# Welcome! {{content}}
+# Welcome! 
 
 ???
 
+Hi everyone, welcome to the Statistical Society of Australia Victorian Branch event Belz lecture 2021. 
 
 # Acknowledgement of Country
 
 <!-- https://www.statsoc.org.au/Guidelines  -->
 
-.measure.lh-title[
-In the spirit of reconciliation the Statistical Society of Australia acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
-]
+Before we begin, we would like to acknowledge the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
+
 
 
 ---
@@ -130,6 +133,10 @@ person <- function(img, name, position = NULL) {
 
 ]
 
+???
+
+* For those that don't know me, my name is Emi Tanaka and I am the President of the Statistical Society of Australia Victorian Branch and you can also see other council members in our branch on this slide. 
+* Now 2021 is nearly coming to an end and we are going to be seeking nominations to join the council in 2022. So if you are interested, please do get in touch. 
 
 ---
 
@@ -161,6 +168,12 @@ The Great Australian <br>Statisticians T-Shirt
 <i class="fab fa-meetup color-secondary"></i> [bit.ly/ssavic-meetup](http://bit.ly/ssavic-meetup)  
 ]
 
+???
+
+* You can find how to get in touch here, 
+* in particular, if you want to get in touch with the Victorian Branch, please get in touch using the victorian email address
+* I also want to remind you that the Society now has a T-shirt, and you can buy this in the link give here with the proceeds going to support early career statisticians
+
 ---
 
 # SSA Vic Conference & Workshop Funding
@@ -175,6 +188,12 @@ The Great Australian <br>Statisticians T-Shirt
   * [Data Visualisation with R](https://www.statsoc.org.au/event-4476797) .f5[6 Dec 2021]
   * Advanced Data Visualisation with R .f5[coming soon]
   * Stan workshop .f5[coming soon]
+
+???
+
+* If you are not a member of the Society, I would encourage you to join!
+* There are many benefits, including for the Victorian Branch member you can get financial support to attend conference or a workshop
+* There are many workshops available at the moment, including Python, Greta, SQL, Data Vis
 
 ---
 
@@ -201,6 +220,11 @@ https://statsocaus.github.io/dicook-award/
 ]
 ]
 
+???
+
+* In the last event, we announced the Di Cook award, which is an open source statistical software award for students in Victoria or Tasmanian institutes
+* So if you have a software package or web app or some other statistical software product, please do submit.
+* The submission closes on 26th Nov and the winner announced in March 2022 will win $1000
 
 ---
 
@@ -215,6 +239,12 @@ https://statsocaus.github.io/dicook-award/
 <center>
 <img src="images/escape-room.png" width="600px" style="border: 3px solid black;">
 </center>
+
+??? 
+
+After the lecture, we will have a social event so please do sign up if you are interested in joining.
+
+We have virtual escape room challenge organised, but if you're not up to that, we will have a room dedicated for social chat. 
 
 
 ---
@@ -239,4 +269,13 @@ Monash University
 
 ???
 
-Professor Andrew Forbes is the Head of the Biostatistics Unit in the School of Public Health and Preventive Medicine at Monash University. He completed his undergraduate degree in mathematical statistics at Monash University, then went on to complete a PhD at Cornell University, USA. After a short stint as a postdoctoral research fellow in the pharmaceutical industry, he returned to Australia and joined Monash University where he has been since. His primary activities involve methodological research, particularly in the area of cluster randomised clinical trials, collaborating with researchers on clinical and public health research projects, including a variety of randomised trials, and teaching in the Master of Biostatistics program. He was recently elected as a Fellow of the Australian Academy of Health and Medical Sciences for his contributions to biostatistics and health research. 
+The Belz lecture is our premier event and we are honoured to have Professor Andrew Forbes talk to us about his extensive experience in clinical trials. 
+
+* Professor Andrew Forbes is the Head of the Biostatistics Unit in the School of Public Health and Preventive Medicine at Monash University. 
+* He completed his undergraduate degree in mathematical statistics at Monash University, then went on to complete a PhD at Cornell University, USA. 
+* After a short stint as a postdoctoral research fellow in the pharmaceutical industry, he returned to Australia and joined Monash University where he has been since. 
+* His primary activities involve methodological research, particularly in the area of cluster randomised clinical trials, collaborating with researchers on clinical and public health research projects, including a variety of randomised trials, and teaching in the Master of Biostatistics program. 
+* He was recently elected as a Fellow of the Australian Academy of Health and Medical Sciences for his contributions to biostatistics and health research. 
+
+
+Without further adieu, please welcome Professor Andrew Forbes. 
