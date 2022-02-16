@@ -16,6 +16,8 @@ navbar:
    - text: "Home"
      href: index.html
      icon: fa-home
+   - text: "Council"
+     href: council.html
   right:
     - icon: fab fa-github
       href: https://github.com/StatSocAus/ssavic

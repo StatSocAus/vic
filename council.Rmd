@@ -1,0 +1,81 @@
+---
+title: Past SSA Vic Councils
+---
+
+
+```{r setup, include = FALSE}
+library(tidyverse)
+library(lubridate)
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE)
+
+council <- read_csv("data/councils.csv")
+```
+
+## Current
+
+```{r current, results = "asis"}
+df <- council %>% 
+  filter(Year == year(Sys.Date()))
+
+if(nrow(df)==0) {
+  df <- council %>% 
+    filter(Year == year(Sys.Date()) - 1)
+}
+
+cat(paste(paste("*",  c(df$President, 
+        df$Past.Vice.President., 
+        df$Secretary, 
+        df$Treasurer,
+        df$Other.members.of.council %>% 
+          str_split(",") %>% 
+          .[[1]] %>% 
+          str_trim())), collapse = "\n"))
+```
+
+
+## Past 
+
+
+```{r past}
+
+council %>% 
+  filter(Year < year(Sys.Date())) %>% 
+  arrange(desc(Year)) %>% 
+  knitr::kable(col.names = c("Year", "President", "Vice President", "Secretary", "Treasurer", "Other members of council")) %>% 
+  kableExtra::kable_classic()
+```
+
+
+\*According to the original Victorian Branch Constitution, the Branch
+President had to be elected each year. An individual could serve as the
+Branch President for a maximum of two years in succession, then as the
+Immediate Past President for one or two years, as the circumstances
+dictated. The Past President was an automatic (unelected) member of
+Branch Council. At the AGM in March 1999, the membership voted to change
+the Constitution. In years when the Past President retired at the AGM in
+March, an incoming President would be voted in for a four year-term:
+Vice-President for one year, President for the next two years, and then
+Past President for one year. The motivation was that the Vice-President
+then had a year to prepare for office. Before 1999 the new President had
+been thrust suddenly into the job. Thus in column 3 of the table, the
+Vice-President is listed in even years starting from 2000 (2002, 2004
+and 2006 and so on).
+
+In all other years, the Past President is listed (although in some years
+the Past President could not fill the post, usually because he or she
+had left Victoria).
+
+☺ In 2002 the post of Branch SSAI Newsletter Correspondent was created
+by Central Council. Each Branch nominated a member of Branch Council
+to prepare regular Branch Reports for the SSAI Newsletter. The person
+indicated by a ☺ is that year’s Victorian Branch Correspondent.
+
+□ The Branch Council is supposed to have a Student Representative each
+year. This has not always happened, and even when it has, the name of
+the student representative has not always been explicitly noted in our
+records. This information has therefore been omitted.
+
+In 2020 the Young Statistician Representative position changed to the
+Early Career and Student Statistician Representative (ECSS)
