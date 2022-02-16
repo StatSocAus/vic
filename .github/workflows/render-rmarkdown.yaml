@@ -24,6 +24,10 @@ jobs:
 
       - uses: r-lib/actions/setup-renv@v2
       
+      - name: Query dependencies
+        run: |
+          sudo apt-get install -y libcurl4-openssl-dev
+      
       - name: Render Rmarkdown files
         run: rmarkdown::render_site()
         shell: Rscript {0}
