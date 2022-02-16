@@ -1,5 +1,5 @@
 ---
-title: "Statistical Society of Australia<br> Victorian & Canberra Branch"
+title: "Statistical Society of Australia<br> Victorian & Canberra Branches"
 subtitle: "April Event"
 author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
 email: "vic.branch@statsoc.org.au"
@@ -154,7 +154,7 @@ name: canberra-council
 
 name: contact
 
-#  Statistical Society of Australia <br> .f2.color-secondary[Victorian & Canberra Branch]
+#  Statistical Society of Australia <br> .f2.color-secondary[Victorian & Canberra Branches]
 
 .fr.center[
 The Great Australian <br>Statisticians T-Shirt
