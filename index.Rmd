@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 library(tidyverse)
 ```
 
-##  Statistical Society of Australia Victorian Branch (SSA Vic)
+## Statistical Society of Australia Victorian Branch (SSA Vic)
 
 
 For more information about SSA Vic, please see the following.
