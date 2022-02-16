@@ -39,9 +39,12 @@ cat(paste(paste("*",  c(df$President,
 
 
 ```{r past}
-
 council %>% 
   filter(Year < year(Sys.Date())) %>% 
+  # remove titles
+  mutate(across(President:Treasurer,
+                ~str_replace(.x, "(^Prof|^Assoc Prof|^Dr[.]?) ", ""))) %>% 
+  mutate(Other.members.of.council = str_replace_all(Other.members.of.council, "(Dr|Miss|Ms|Prof) ", " ")) %>% 
   arrange(desc(Year)) %>% 
   knitr::kable(col.names = c("Year", "President", "Vice President", "Secretary", "Treasurer", "Other members of council")) %>% 
   kableExtra::kable_classic()
