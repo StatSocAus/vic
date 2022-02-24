@@ -38,3 +38,4 @@ glue::glue("<li><a href='{baseurl}{link}'>{gsub('.html', '', link)}</a></li>") %
 ## Di Cook Award
 
 For more information please visit https://statsocaus.github.io/dicook-award/
+
