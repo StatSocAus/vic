@@ -58,7 +58,16 @@ ul {
   width: 200px;
   height: 200px;
   overflow: hidden;
+
 }
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 
 .circle-image-120 {
   background: #000;
