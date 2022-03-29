@@ -216,9 +216,13 @@ brought to you by the _SSA Victorian Branch_
 
 <br>
 
-* This is a **open-source statistical software award**.
+.w-85[
+* This is an **open-source statistical software award** for the students in Victoria and Tasmania.
 * There were a total of **11 applications** in 2021. 
 * The next call for submission will open in the last quarter of 2022.
+
+]
+
 
 <br>
 
@@ -231,11 +235,17 @@ https://statsocaus.github.io/dicook-award/
 ]
 ]
 
-???
+--
 
-* In the last event, we announced the Di Cook award, which is an open source statistical software award for students in Victoria or Tasmanian institutes
-* So if you have a software package or web app or some other statistical software product, please do submit.
-* The submission closes on 26th Nov and the winner announced in March 2022 will win $1000
+<br>
+
+.right[
+As for the winner of last year's round...
+
+]
+
+
+
 
 
 ---
