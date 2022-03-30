@@ -149,23 +149,22 @@ person <- function(img, name, position = NULL, path = "council/") {
 .flex[
 `r person("emi.jpeg", "Emi Tanaka", "President")`
 `r person("ben.jpeg", "Ben Harrap", "Vice-President")`
-
+`r person("belinda.jpg", "Belinda Maher")`
 `r person("cameron.jpeg", "Cameron Patrick")`
-`r person("patrick.jpeg", "Patrick Robotham")`
+`r person("dennis.png", "Dennis Leung")`
+`r person("elena.jpg", "Elena Tartaglia")`
 
-`r person("lizzie.jpeg", "Elizabeth Korevaar")`
-`r person("damjan.jpeg", "Damjan Vukcevic")`
 
 ]
 <br>
 .flex[
-
-`r person("dennis.png", "Dennis Leung")`
+`r person("lizzie.jpeg", "Elizabeth Korevaar")`
+`r person("joanne.jpg", "Joanne Potts")`
+`r person("melissa.jpg", "Melissa Middleton")`
+`r person("patrick.jpeg", "Patrick Robotham")`
+`r person("rick.jpg", "Rick Tankard")`
 `r person("swen.jpg", "Swen Kuh")`
-`r person("elena.jpg", "Elena Tartaglia")`
-`r person("person.png", "Belinda Maher")`
-`r person("person.png", "Joanne Potts")`
-`r person("person.png", "Melissa Middleton")`
+
 
 ]
 
