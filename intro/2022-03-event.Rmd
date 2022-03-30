@@ -278,6 +278,15 @@ https://statsocaus.github.io/venables-award/
 ]
 ]
 
+---
+
+class: center middle
+
+# <i class="fas fa-utensils"></i> Call for dinner
+
+We'll be heading to a nearby restaurant after the talk.  
+
+Let us know if you want to join!
 
 ---
 
