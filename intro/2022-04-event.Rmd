@@ -250,7 +250,7 @@ class: inverse middle
 
 Dr **Maëlle Salmon **  .f4[rOpenSci, France]  
 
-**Paula Andrea Martinez **  .f4[Australian Rsearch Data Commons]  
+Dr **Paula Andrea Martinez **  .f4[Australian Rsearch Data Commons]  
 
 Professor **Thomas Lumley** .f4[University of Auckland, New Zealand]
 
