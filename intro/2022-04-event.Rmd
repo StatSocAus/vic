@@ -89,6 +89,10 @@ class: inverse middle
 
 # Welcome! 
 
+???
+
+Welcome to this joint event. My name is Emi Tanaka, and I'm the Victorian Branch President of the Statistican Society of Australia.
+
 ---
 
 # Acknowledgement of Country
@@ -173,7 +177,14 @@ name: council
 ]
 
 
+???
 
+
+For those that don't know much about the Statistical Society of Australia, we are an umbrella group for those interested in or practising statistics for our respective regions - Victorian Branch for those in Victoria and Tasmania, and Canberra Branch for those in ACT. 
+
+We hold monthly events that include panel discussion like today, but also have talks, mentoring events, social events and more. 
+
+If you are not a member, you should consider joining us! We offer member only benefits including some funding schemes available only for members.
 
 
 
@@ -193,6 +204,13 @@ name: council
 ]
 
 
+???
+
+We are also happy to co-host this event with Australian Research Data Commons.
+
+* ARDC recognises software as a research enabler. 
+* ARDC established a national agenda to **recognise research software as a first-class research output** and is achieving this collaboratively by engaging widely with Australia’s research sector.
+* Today, we have Dr Paula Martinez from ARDC in the panel, who will be able to tell us more about this and also for you to ask questions.
 
 ---
 
@@ -225,6 +243,11 @@ https://statsocaus.github.io/venables-award/
 ]
 ]
 
+
+???
+
+* Finally, this event is also co-hosted with the Society's Statistical Computing and Visualisation Section.
+* If you are new developer of a statistical software, be sure to submit your application for the Venables Award, which is closing in about 2.5 weeks time
 
 
 ---
