@@ -69,6 +69,16 @@ ul {
 }
 
 
+.circle-image-100 {
+  background: #000;
+  border-radius: 50%;
+  border: solid 3px black;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  overflow: hidden;
+}
+
 .circle-image-120 {
   background: #000;
   border-radius: 50%;
