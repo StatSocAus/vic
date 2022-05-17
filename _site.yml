@@ -2,7 +2,7 @@ name: "Statistical Society of Australia Victoria Branch"
 title: "SSA Vic"
 output_dir: "docs"
 theme: assets/ssa-theme.css
-repository_url: https://github.com/StatSocAus/ssavic
+repository_url: https://github.com/StatSocAus/vic
 description: |
   GitHub page for the Statistical Society of Australia Victoria Branch.
 source_url: true
@@ -20,5 +20,5 @@ navbar:
      href: council.html
   right:
     - icon: fab fa-github
-      href: https://github.com/StatSocAus/ssavic
+      href: https://github.com/StatSocAus/vic
 output: distill::distill_article
