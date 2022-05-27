@@ -16,6 +16,12 @@ navbar:
    - text: "Home"
      href: index.html
      icon: fa-home
+   - text: "Slack"
+     menu:
+     - text: "Join"
+       href: slack.html
+     - text: "Code of Conduct"
+       href: slack-coc.html
    - text: "Council"
      href: council.html
   right:
