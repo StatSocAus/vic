@@ -119,7 +119,7 @@ button {
 Please note that by joining the SSA Community, you are agree to abide by the
 
 <center>
-[<button class="button-coc" role="button">SSA Community Slack Code of Conduct</button>](/slack-coc.html)
+[<button class="button-coc" role="button">SSA Community Slack Code of Conduct</button>](/vic/slack-coc.html)
 </center>
 
 
@@ -192,4 +192,4 @@ If you have some special interest topics, you can create your own public channel
 
 #### Code of conduct
 
-Please note that by joining this Slack workspace, you agree to respect the [SSA Community Slack code of conduct](./slack-coc.html) -- any violations may see you removed from the workspace. This just means that we expect you to be respectful of others and if there are any incidences that needs to be reported, please contact one of the response team members. We are committed to keeping this workspace an inclusive and welcoming place for the community with interest in statistics and data science and if there are ways that we can improve your experience, please do let us know!
+Please note that by joining this Slack workspace, you agree to respect the [SSA Community Slack code of conduct](/vic/slack-coc.html) -- any violations may see you removed from the workspace. This just means that we expect you to be respectful of others and if there are any incidences that needs to be reported, please contact one of the response team members. We are committed to keeping this workspace an inclusive and welcoming place for the community with interest in statistics and data science and if there are ways that we can improve your experience, please do let us know!
