@@ -151,14 +151,21 @@ The platform tends to promote casual messages, threads for discussion, and it is
 
 Slack is used by various companies, organisations and even groups. In addition, the Australian (and New Zealand) statistics community have had several exposure to the usage of Slack now used in Australia and New Zealand Statistics Conference (ANZSC) 2021, Statistical Consulting Network (SCN) 2020, and Early Career & Student Statistics Conference (ECSSC) 2021. The active usage in recent conferences suggest that its usage is effective for at least conference purposes. 
 
+### Is this only for Victorians?
+
+This idea was the result of SSA Vic strategic committee meeting and implemented by the SSA Vic Council 2022. We have also proposed this at the SSA Branch Presidents' meeting and the SSA Central Council meeting, where there was a general support for its usage with some raising caution for some aspects (e.g. dealing with misconducts and administrative burdens). For this reason, the advertisement is limited to primary the Victorian and Tasmanian community initially, as a trial case, before proceeding with any wider advertisement. This does not mean that only Victorians and Tasmanians can join! If you are part of (or interested to be part of) the Australian statistics or data science community, you are most welcomed to join!
+
 ### But we have the ANZstat forum?
 
-The [ANZStat forum](https://www.statsoc.org.au/https/statsoc.org.au/discussion-forum), which evolved out of the ANZStat mailing list, is another platform for discussion, advertising or job posting for the statistical community. 
+The [ANZStat forum](https://www.statsoc.org.au/https/statsoc.org.au/discussion-forum), which evolved out of the ANZStat mailing list, is another platform for discussion, advertising or job posting for the statistical community. We believe that the statistics community is diverse so different platforms will appeal to different groups.
 
 
 ### But I don’t want to use platforms like Slack
 
 The platform is entirely opt-in and event advertisement is still expected to occur in other channels as well. 
+
+
+
 
 ## Greetings
 
