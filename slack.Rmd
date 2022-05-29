@@ -169,6 +169,8 @@ The platform is entirely opt-in and event advertisement is still expected to occ
 
 ## Greetings
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IkLIcipBk5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Welcome to the SSA Community!
 
 This workspace is used for you to engage with the Australian community that have an interest in statistics or data science (broadly defined). By default, you'll join the
