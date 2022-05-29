@@ -129,7 +129,7 @@ you can join the SSA Community Slack by clicking on the link below:
 [<button class="button-join" role="button"><i class="fab fa-slack"></i> Join SSA Community Slack</button>](https://join.slack.com/t/ssa-community/shared_invite/zt-17uw5mjh3-d0qVJEnwrE9K6MSS26_idA)
 
 
-**Check out the [Greetings](#greetings){style="color:#1899D6"} to see what'll you'll be greeted as when you join.**
+**Check out the [Greetings](#greetings){style="color:#1899D6"} to see the full greeting message.**
 
 ## About
 
