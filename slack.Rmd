@@ -179,10 +179,10 @@ This workspace is used for you to engage with the Australian community that have
 - **#random** channel, where you'll see random chatters, which may or may not include some gardening posts from one of the SSA Vic councillors -- if you use twitter, any tweets that have the hashtag #SSACommunity will automatically get posted in this channel, 
 - **#help** channel, where you can ask for general help or assistance needed, e.g. navigating Slack, 
 * **#career_and_jobs**, where events related to career development or jobs may be posted, 
-* **#discussion**, where you can start or engage discussions,
+* **#discussion**, where you can start or engage in discussions,
 * **#national-events**, where national events may be posted, 
-* **#national-general**, where a general conversation can start, and tweets from [@StatSocAus](https://twitter.com/StatSocAus) will be posted,
-* **#vic-general**, where a general conversation relevant for Victorian and Tasmanian community can start, and tweets from [@SSAVictoria](https://twitter.com/SsaVictoria) will be posted,
+* **#national-general**, where a general conversation can start, and tweets from [\@StatSocAus](https://twitter.com/StatSocAus) will be posted,
+* **#vic-general**, where a general conversation relevant for Victorian and Tasmanian community can start, and tweets from [\@SSAVictoria](https://twitter.com/SsaVictoria) will be posted,
 * **#vic-events**, where Victorian or Tasmanian events may be posted, 
 * **#vic-help**, where Victorian or Tasmanian community can ask for help.
 
@@ -190,7 +190,7 @@ This workspace is used for you to engage with the Australian community that have
 
 #### Update your profile
 
-It's paramount importance that you have your full name in your profile with your affiliation and upload a photo of yourself. It's hard to get a sense that you are interacting with real people otherwise. If there's some situation where this is difficult, please flag one of the SSA Vic councillors (listed in the #help channel), otherwise we may prune your account in the future.  
+It's paramount importance that you have your full name in your profile with your affiliation and upload a photo of yourself. It's hard to get a sense that you are interacting with real people otherwise. If there's some situation where this is difficult, please flag one of the SSA Vic councillors (listed in the #vic-help channel), otherwise we may prune your account in the future.  
 
 #### Introduce yourself
 
@@ -198,7 +198,7 @@ Do introduce yourself in the #welcome channel so that others can greet you!
 
 #### Join channels
 
-You can join more channels that are of your interest, e.g. for the Victorian and Tasmanian community, we recommend joining the #vic-events, #vic-general, #vic-help. If you are looking for jobs or want to recruit, you can join #jobs, or want to start a discussion, go to #discussion -- there are handy links in the channel that links to the official SSA links.
+You can join more channels that are of your interest, e.g. for the Victorian and Tasmanian community, we recommend joining the #vic-events, #vic-general, #vic-help. If you are looking for jobs or want to recruit, you can join #career_and_jobs, or want to start a discussion, go to #discussion -- there are handy links in the channel that links to the official SSA links.
 
 If you have some special interest topics, you can create your own public channels! We recommend creating channels with the name starting with `topic-` so it's easy for others to navigate. If you some special project or team that you want to put together, we recommend using the prefix `proj-` and `team-`. We do suggest though that you check out what channels exists first before making your own. We may archive channels that become inactive time to time.
 

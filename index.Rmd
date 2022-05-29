@@ -19,7 +19,7 @@ For more information about SSA Vic, please see the following.
 
 * <i class="fas fa-globe"></i> Official website: https://www.statsoc.org.au/Victoria
 * <i class="fab fa-meetup"></i> [Meetup](https://www.meetup.com/en-AU/Statistical-Society-of-Australia-Victorian-Branch/)
-* <i class="fab fa-twitter"></i> Twitter: [@SSAVictoria](https://twitter.com/SSAVictoria)
+* <i class="fab fa-twitter"></i> Twitter: [\@SSAVictoria](https://twitter.com/SSAVictoria)
 
 ## Intro slides
 
