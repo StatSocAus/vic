@@ -209,6 +209,33 @@ The Great Australian <br>Statisticians T-Shirt
 
 ---
 
+# Workshop and Funding
+
+* **Machine Learning with Python**<br>
+  <i class="fas fa-calendar"></i> 23-24 July 2023 Online<br> https://www.statsoc.org.au/event-4880251
+
+
+* **Up to $200 of financial support for SSA Vic members!** <br> <i class="fas fa-link"></i> https://bit.ly/ssavic-funding-2022
+
+
+* **Join SSA Vic!**:
+  * SSA membership is $20 only for students 
+  * Full membership is $250 or $240 for automatic renewal
+  * Recent graduates may be eligible for transitional membership
+  * Benefits: https://www.statsoc.org.au/page-1075427
+
+---
+
+class: center middle
+
+# <i class="fab fa-slack"></i> SSA Community Slack
+
+
+
+.f1[[bit.ly/ssa-slack](https://bit.ly/ssa-slack)]
+
+---
+
 class: center middle
 
 # <i class="fas fa-utensils"></i> Call for dinner
