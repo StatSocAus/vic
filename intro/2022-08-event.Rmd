@@ -276,13 +276,9 @@ Thanks to:
 
 .f1[Thanks for coming!]
 
-<br>
-
 <center>
-<img src="images/feedback/event4928271.png" width="20%">
+<img src="images/feedback/event4928271.png" width="50%">
 </center>
-
-<br>
 
 Please let us know what you think about the event by scanning the QR code above with your mobile.
 
