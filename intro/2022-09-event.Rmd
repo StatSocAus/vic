@@ -260,6 +260,28 @@ https://ecssmini2022.netlify.app/
 
 ---
 
+# 2022 Di Cook Award
+
+<img src="images/dicook-2019.png" class="circle-image-120 absolute top-2 right-3">
+
+* Our **open-source statistical software award** is open again!
+* We are calling for submissions from students (or recent graduates) of Victorian or Tasmanian tertiary institutes
+* Submissions close at **Fri 25th Nov 2022**
+* Winner, announced in March 2023, will win $1,000
+* Find more information at
+
+
+.flex[
+.w-20[
+
+]
+.w-60.bg-color-primary.pa3[
+https://statsocaus.github.io/dicook-award/
+]
+]
+
+---
+
 class: center middle
 
 # <i class="fab fa-slack"></i> SSA Community Slack
