@@ -310,7 +310,14 @@ class: inverse middle
 <img src="images/susan-wei.jpg">]
 .circle-image-120[
 <img src="images/swen-kuh.jpg">]
+.circle-image-120[
+<img src="images/elena-tartaglia.jpeg">]
 ]
+
+
+
+
+
 
 ## Early Career Panel
 
@@ -325,13 +332,16 @@ class: inverse middle
 
 **Dr Swen Kuh** .f4[Monash University]
 
+**Dr Elena Tartaglia** .f4[CSIRO]
 
-<br>
-
+.f3[
 Thanks to:
 
 * **Melissa Middleton** (Event Coordinator)
 * **Ben Harrap** (Deputy Event Coordinator)
+
+]
+
 
 ???
 
