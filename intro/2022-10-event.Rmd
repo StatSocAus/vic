@@ -1,0 +1,335 @@
+---
+title: "Statistical Society of Australia<br> Victorian Branch"
+subtitle: "Belz Lecture"
+author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
+email: "vic.branch@statsoc.org.au"
+date: "20th October 2022"
+output:
+  xaringan::moon_reader:
+    css:
+      - xaringan-themer.css
+      - "assets/font-awesome-all.css"
+      - "assets/animate.css"
+      - "assets/styles.css"
+      - "assets/fonts.css"
+      - "assets/tachyons-addon.css"
+    self_contained: false 
+    seal: true 
+    chakra: 'lib/remark-latest.min.js'
+    lib_dir: lib
+    nature:
+      highlightStyle: magula
+      highlightLanguage: r 
+      highlightLines: true
+      highlightSpans: false 
+      countIncrementalSlides: false
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: false 
+        touch: true
+        click: false
+      ratio: '16:9'
+---
+
+layout: true
+
+```{r, include = FALSE}
+current_file <- knitr::current_input()
+basename <- gsub(".Rmd$", "", current_file)
+
+knitr::opts_chunk$set(
+  fig.path = sprintf("images/%s/", basename),
+  fig.width = 6,
+  fig.height = 4,
+  fig.align = "center",
+  fig.retina = 3,
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  cache = FALSE,
+  cache.path = "cache/"
+)
+```
+
+
+
+
+.footnote[
+<img style="vertical-align:middle" src='images/logo/other/png_transparent/SSA_Monogram_Navy-White.png' height='40px'/> These slides are available at https://statsocaus.github.io/vic/intro/`r basename`.html
+]
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#003469",
+                 secondary_color = "#2babe2",
+                 text_font_family = "Glacial Indifference",
+                 header_font_family = "Glacial Indifference",
+                 text_font_size = "30px"
+                )
+charcoal <- "#58595b"
+```
+
+```{css, echo = FALSE}
+.speaker-photo {
+  width: 150px;
+  border: 3px solid black;
+  border-radius: 5px;
+}
+```
+
+
+
+---
+
+
+
+class: inverse middle
+
+# Welcome! 
+
+---
+
+# Acknowledgement of Country
+
+<!-- https://www.statsoc.org.au/Guidelines  -->
+
+<br><br>
+
+.w-70[
+We acknowledge that we are on the lands of the Wurundjeri people who have been custodians of this land for thousands of years, and acknowledge and pay our respects to their Elders past and present.
+
+]
+
+
+
+
+
+
+---
+
+name: council
+
+# SSA Vic Council 2022
+
+```{r}
+person <- function(img, name, position = NULL, twitter = NULL, path = "council/") {
+  position <- ifelse(is.null(position), "", 
+                     paste0("**", position, "**"))
+  twitter <- ifelse(is.null(twitter),
+                    "",
+                    paste0("<i class='fab fa-twitter'></i>", twitter))
+  glue::glue(".person.f6[
+                    .circle-image-120[
+                    <img src='images/{path}{img}'>]
+                    {position}  
+                    {name}  
+                    {twitter}]")
+}
+```
+
+.flex[
+.w-20[
+`r person("emi.jpeg", "Emi Tanaka", "President", "@statsgen")`
+]
+.w-20[
+`r person("ben.jpeg", "Ben Harrap", "Vice-President", "@BHarrap")`
+]
+.w-20[
+`r person("elena.jpg", "Elena Tartaglia", "Secretary", twitter = "@elena_tartaglia")`
+]
+.w-20[
+`r person("rick.jpg", "Rick Tankard", "Treasurer", twitter = "@RickTankard")`
+]
+.w-20[
+`r person("dennis.png", "Dennis Leung", "Membership Officer")`
+]
+.w-20[
+`r person("cameron.jpeg", "Cameron Patrick", "Comms Officer", twitter = "@camjpatrick")`
+
+]
+]
+<br>
+.flex[
+.w-20[
+`r person("patrick.jpeg", "Patrick Robotham", "Industry Rep", twitter = "@PatrickRobotham")`
+]
+.w-20[
+`r person("melissa.jpg", "Melissa Middleton", "ECSS Rep", twitter = "@MK_Middleton")`
+]
+.w-20[
+`r person("joanne.jpg", "Joanne Potts", "Deputy Secretary", twitter = "@AnalyticalEdge")`
+]
+.w-20[
+`r person("lizzie.jpeg", "Elizabeth Korevaar", "Deputy Treasurer", twitter = "@lizziekorevaar")`
+]
+.w-20[
+`r person("swen.jpg", "Swen Kuh", "Deputy Membership Officer", twitter = "@swenkuh")`
+]
+.w-20[
+`r person("belinda.jpg", "Belinda Maher", "Deputy Comms Officer", twitter = "@mingabelle")`
+]]
+
+--
+
+.center.animated.pulse.infinite.slow[
+**We are seeking expressions of interest for  joining the council in 2023!**
+
+]
+
+---
+
+name: contact
+
+#  Statistical Society of Australia <br> .f2.color-secondary[Victorian Branch]
+
+.fr.center[
+The Great Australian <br>Statisticians T-Shirt
+
+<img src="images/ssa-tshirts.png" width="300px">
+
+.f4[[Designed by Ben Harrap](https://benharrap.com/post/2020-12-02-tshirt-competition/)]
+
+<i class="fas fa-shopping-cart"></i> .f4[Buy at https://www.statsoc.org.au/SSA-T-Shirt]
+
+.f6[Proceeds used to support early career statisticians.]
+]
+
+.lh-title[
+<br>
+<i class="fa fa-link color-secondary"></i>  [www.statsoc.org.au/Victoria](https://www.statsoc.org.au/Victoria)
+<br>
+<i class="fa fa-envelope color-secondary"></i> [vic.branch@statsoc.org.au](mailto:vic.branch@statsoc.org.au) <br><i class="fa fa-envelope color-primary"></i> [eo@statsoc.org.au](mailto:eo@statsoc.org.au)  
+
+<br><Br>
+<i class="fab fa-twitter color-secondary animated bounce"></i> [@SSAVictoria](https://twitter.com/SsaVictoria) &nbsp;&nbsp;&nbsp; <i class="fab fa-twitter color-primary"></i> [@StatSocAus](https://twitter.com/StatSocAus)  
+  <br>
+<i class="fab fa-meetup color-secondary"></i> [bit.ly/ssavic-meetup](http://bit.ly/ssavic-meetup)  
+]
+
+???
+
+* You can find how to get in touch here, 
+* in particular, if you want to get in touch with the Victorian Branch, please get in touch using the victorian email address
+* I also want to remind you that the Society now has a T-shirt, and you can buy this in the link give here with the proceeds going to support early career statisticians
+
+
+
+---
+
+# Funding and Membership
+
+
+* **Up to $200 of financial support for SSA Vic members!** <br> <i class="fas fa-link"></i> https://bit.ly/ssavic-funding-2022
+
+<br>
+
+* **Join SSA Vic!**:
+  * SSA membership is $20 only for students 
+  * Full membership is $250 or $240 for automatic renewal
+  * [Recent graduates are eligible for discounts](https://statsoc.org.au/Forum-general-topics/12893603)!
+  * Benefits: https://www.statsoc.org.au/page-1075427
+
+---
+
+# Future Events
+
+
+* **15-17th November**<br>Early Career and Student Statisticians Miniconference 2022
+
+.center.f3[
+https://ecssmini2022.netlify.app/
+]
+
+--
+
+
+
+* **15th November** "Enacting sovereign rights of Aboriginal and Torres Strait Islander people in official statistics and other data" by **Dr Kalinda Griffiths**  https://www.statsoc.org.au/event-4986082 <br> with a **social event** (details to come)
+
+
+<br>
+
+.center.animated.pulse.infinite.slow[
+**Save the Dates!**
+]
+
+---
+
+# 2022 Di Cook Award
+
+<img src="images/dicook-2019.png" class="circle-image-120 absolute top-2 right-3">
+
+* Our **open-source statistical software award** is open again!
+* We are calling for submissions from students (or recent graduates) of Victorian or Tasmanian tertiary institutes
+* Submissions close at **Fri 25th Nov 2022**
+* Winner, announced in March 2023, will win $1,000
+* Find more information at
+
+
+.flex[
+.w-20[
+
+]
+.w-60.bg-color-primary.pa3[
+https://statsocaus.github.io/dicook-award/
+]
+]
+
+---
+
+class: center middle
+
+# <i class="fab fa-slack"></i> SSA Community Slack
+
+
+
+.f1[[bit.ly/ssa-slack](https://bit.ly/ssa-slack)]
+
+
+
+---
+
+class: inverse middle
+
+
+# From counting blueberries to Chief Statistician: practicing the theory of statistics
+
+.circle-image-200.fr[
+<img src="images/dina-neiger.jpg">]
+
+## **Dr Dina Nieger** 
+
+*Chief Statistician*
+
+Social Research Centre
+
+
+<br>
+
+.f3[
+Thanks to:
+
+* **Emi Tanaka** (Event Coordinator)
+
+]
+
+
+???
+
+
+---
+
+
+# Event Feedback
+
+.w-50[
+
+.f1[Thanks for coming!]
+
+<center>
+<img src="images/feedback/qr-code_belz.png" width="50%">
+</center>
+
+Please let us know what you think about the event by scanning the QR code above with your mobile.
+
+]
