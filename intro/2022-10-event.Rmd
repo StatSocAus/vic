@@ -219,9 +219,10 @@ The Great Australian <br>Statisticians T-Shirt
 # Funding and Membership
 
 
-* **Up to $200 of financial support for SSA Vic members!** <br> <i class="fas fa-link"></i> https://bit.ly/ssavic-funding-2022
+* **Up to $200 of financial support for SSA Vic members!** <br> <i class="fas fa-link"></i> https://bit.ly/ssavic-funding-2022 <br> E.g. for the SQL Workshop at https://statsoc.org.au/event-4912530
 
 <br>
+
 
 * **Join SSA Vic!**:
   * SSA membership is $20 only for students 
