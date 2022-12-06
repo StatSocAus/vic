@@ -233,13 +233,35 @@ The Great Australian <br>Statisticians T-Shirt
 
 ---
 
+# SSA Mentoring Program 2023
+
+.flex[
+.w-80[
+* The SSA Mentoring Committee is now taking expressions of interest for the 2023 Mentoring Program!
+* Open to all members of the Society, the program will connect early and mid-career statisticians with experienced mentors to provide them with career guidance and share their experiences to help them achieve their professional goals.
+* To find out if you are eligible or for more information, please visit the SSA Mentoring Program webpage: https://statsoc.org.au/Mentoring
+* Register your interest by **Sunday 11th December 2022**
+
+]
+
+.w-20[
+
+<img src="images/qr-mentoring-2023.png">
+
+]
+
+]
+
+
+---
+
 # 2022 Di Cook Award
 
 <img src="images/dicook-2019.png" class="circle-image-120 absolute top-2 right-3">
 
 * Our **open-source statistical software award** is open again!
 * We are calling for submissions from students (or recent graduates) of Victorian or Tasmanian tertiary institutes
-* Submissions deadline extended to **Fri 9th Dec 2022**
+* Submissions deadline extended to **Fri 16th Dec 2022**
 * Winner, announced in March 2023, will win $1,000
 * Find more information at
 
@@ -273,6 +295,14 @@ class: inverse middle
 # <i class="fas fa-comments"></i> Virtual social event with SSA Vic
 
 <br>
+
+Featuring **Jess Kasza** and **Ian Gordon** 
+.circle-image-200.fr[
+<img src="images/jesskasza.jpg">]
+.circle-image-200.fr[
+<img src="images/iangordon.jpg">]
+
+<br><br>
 
 .f3[
 Thanks to event coordinators: **Melissa Middleton** and **Elizabeth Korevaar** 
