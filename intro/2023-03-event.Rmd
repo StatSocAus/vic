@@ -190,7 +190,7 @@ name: council
 `r person("emi.jpeg", "Emi Tanaka", "Vice-President", "@statsgen")`
 ]
 .w-20[
-`r person("alun.png", "Alun Pope", "&nbsp;")`
+`r person("alun.jpg", "Alun Pope", "&nbsp;")`
 ]
 .w-20[
 `r person("anna.jpg", "Anna Wilkinson", "&nbsp;", twitter = "@AnnaLWil")`
