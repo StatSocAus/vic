@@ -12,10 +12,10 @@ knitr::opts_chunk$set(
 library(tidyverse)
 ```
 
-## Statistical Society of Australia Victorian Branch (SSA Vic)
+## Statistical Society of Australia Victorian and Tasmanian Branch (SSA Vic & Tas)
 
 
-For more information about SSA Vic, please see the following.
+For more information about SSA Vic & Tas, please see the following.
 
 * <i class="fas fa-globe"></i> Official website: https://www.statsoc.org.au/Victoria
 * <i class="fab fa-meetup"></i> [Meetup](https://www.meetup.com/en-AU/Statistical-Society-of-Australia-Victorian-Branch/)

@@ -1,10 +1,10 @@
-name: "Statistical Society of Australia Victoria Branch"
-title: "SSA Vic"
+name: "Statistical Society of Australia Victorian and Tasmanian Branch"
+title: "SSA Vic & Tas"
 output_dir: "docs"
 theme: assets/ssa-theme.css
 repository_url: https://github.com/StatSocAus/vic
 description: |
-  GitHub page for the Statistical Society of Australia Victoria Branch.
+  GitHub page for the Statistical Society of Australia Victorian and Tasmanian Branch.
 source_url: true
 twitter:
   site: "@SsaVictoria"
