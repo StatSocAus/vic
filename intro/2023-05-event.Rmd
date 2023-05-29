@@ -143,6 +143,29 @@ name: council
 `r person("emi.jpeg", "Emi Tanaka", "Vice-President", "@statsgen")`
 ]
 .w-20[
+`r person("elena.jpg", "Elena Tartaglia", "Secretary", twitter = "@elena_tartaglia")`
+]
+.w-20[
+`r person("rick.jpg", "Rick Tankard", "Treasurer", twitter = "@RickTankard")`
+]
+.w-20[
+`r person("dennis.png", "Dennis Leung", "Membership Officer")`
+]
+.w-20[
+`r person("cameron.jpeg", "Cameron Patrick", "Communication Officer", twitter = "@camjpatrick")`
+]
+
+
+
+
+
+]
+
+.flex[
+.w-20[
+`r person("melissa.jpg", "Melissa Middleton", "ECSS Rep", twitter = "@MK_Middleton")`
+]
+.w-20[
 `r person("alun.jpg", "Alun Pope", "Deputy Secretary")`
 ]
 .w-20[
@@ -152,31 +175,7 @@ name: council
 `r person("ben-wee.jpg", "Benjamin Wee", "Deputy Membership Officer", twitter = "@BenwWee")`
 ]
 .w-20[
-`r person("cameron.jpeg", "Cameron Patrick", "Communication Officer", twitter = "@camjpatrick")`
-
-]
-
-
-
-
-
-]
-<br>
-.flex[
-.w-20[
-`r person("dennis.png", "Dennis Leung", "Membership Officer")`
-]
-.w-20[
-`r person("elena.jpg", "Elena Tartaglia", "Secretary", twitter = "@elena_tartaglia")`
-]
-.w-20[
-`r person("melissa.jpg", "Melissa Middleton", "ECSS Rep", twitter = "@MK_Middleton")`
-]
-.w-20[
 `r person("patrick.jpeg", "Patrick Robotham", "Industry Rep", twitter = "@PatrickRobotham")`
-]
-.w-20[
-`r person("rick.jpg", "Rick Tankard", "Treasurer", twitter = "@RickTankard")`
 ]
 .w-20[
 `r person("swen.jpg", "Swen Kuh", "Membership Officer", twitter = "@swenkuh")`
@@ -188,7 +187,7 @@ name: council
 
 name: contact
 
-#  Statistical Society of Australia <br> .f2.color-secondary[Victorian Branch]
+#  Statistical Society of Australia <br> .f2.color-secondary[Victorian & Tasmanian Branch]
 
 .fr.center[
 The Great Australian <br>Statisticians T-Shirt
@@ -227,7 +226,7 @@ The Great Australian <br>Statisticians T-Shirt
 # Funding and Membership
 
 
-* We offer funding support to our members! Details to come soon.
+* We will be announcing funding for ASC2023 soon!
 
 <br>
 
@@ -242,7 +241,7 @@ The Great Australian <br>Statisticians T-Shirt
 
 #  🥇 Di Cook Award
 
-brought to you by the _SSA Victorian Branch_
+brought to you by the _SSA Victorian and Tasmanian Branch_
 
 * This is an **open-source statistical software award** open to students of Victorian and Tasmanian institutes. 
 
@@ -256,41 +255,6 @@ brought to you by the _SSA Victorian Branch_
 https://statsocaus.github.io/dicook-award/
 ]
 ]
-
---
-
-<br><br>
-
-
-* We will announce the **winner** after the talk!
-
-
----
-
-# 🏆 Venables Award
-
-
-brought to you by the _SSA Statistical Computing and Visualisation Section_  
-
-<br>
-
-* For new developers of open source software for data analytics.
-* First prize is $4000 and runner-up prize is $1000.
-* Submissions close on **Fri Apr 22nd 2023**.
-
-
-.flex.mt3[
-.w-20[
-
-]
-.w-60.bg-color-primary.pa3[
-https://statsocaus.github.io/venables-award/
-]
-.w-20[
-
-]
-]
-
 
 ---
 
@@ -317,17 +281,17 @@ Let us know if you want to join!
 class: inverse middle
 
 
-# 20 years of statistical bioinformatics: a brief history of the limma and edgeR packages
+# What's new in the tidyverse?
 
 
 
 
 .circle-image-200.fr[
-<img src="images/gordon-smyth.jpg">]
+<img src="images/mine.jpg">]
 
-### **Professor Gordon Smyth**   
+### **Professor Mine Çetinkaya-Rundel**   
 
-*Head of WEHI's Bioinformatics Division*   
+*Professor of the Practice and the Director of Undergraduate Studies at the Department of Statistical Science at Duke University*   
 
 
 
@@ -336,7 +300,7 @@ class: inverse middle
 
 .f4[
 Thanks to **Emi Tanaka** (Event Coordinator)
- and **Dennis Leung** (Deputy Event Coordinator).
+ and **Elena Tartaglia and Ben Wee** (Deputy Event Coordinators).
 
 ]
 
