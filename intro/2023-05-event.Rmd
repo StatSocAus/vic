@@ -323,7 +323,7 @@ class: inverse middle
 
 .f4[
 Thanks to **Emi Tanaka** (Event Coordinator)
- and<br> **Elena Tartaglia** and **Ben Wee** (Deputy Event Coordinators).
+ and<br> **Elena Tartaglia** and **Ben Wee** (Deputy Event Coordinators) and **R-Ladies Melbourne**.
 
 ]
 
