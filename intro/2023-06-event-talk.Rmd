@@ -96,7 +96,7 @@ class: inverse middle
 <br><br>
 
 .w-70[
-We acknowledge that we are on the lands of the Wurundjeri people of the Kulin nation and who have been custodians of this land for thousands of years, and acknowledge and pay our respects to their Elders past and present.
+We acknowledge that we are on the lands of the Wurundjeri and Boonwurrung peoples of the Kulin nation and who have been custodians of this land for thousands of years, and acknowledge and pay our respects to their Elders past and present.
 
 <br>
 
@@ -223,14 +223,14 @@ The Great Australian <br>Statisticians T-Shirt
 
 ---
 
-# Save the date!
+# Upcoming events
 
 
-- <i class="fas fa-calendar"></i> **Tue 27th June** <br><br>*Mentoring event* <br><br>More details to come soon.
-
+- <i class="fas fa-calendar"></i> **Tue 27th June** <br><br>*Online mentoring night* <br><br>
+For more details see https://statsoc.org.au/event-5320254
 <br><br>
 
-<!-- - For more details see https://statsoc.org.au/event-5302950. -->
+- <i class="fas fa-calendar"></i> **Date TBC** <br><br> *Machine Learning with Python*
 
 
 ---
