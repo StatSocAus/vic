@@ -219,7 +219,37 @@ The Great Australian <br>Statisticians T-Shirt
 * in particular, if you want to get in touch with the Victorian Branch, please get in touch using the victorian email address
 * I also want to remind you that the Society now has a T-shirt, and you can buy this in the link give here with the proceeds going to support early career statisticians
 
+---
 
+# Equity, Diversity, and Inclusion Committee
+
+.fr.center[
+<br>
+Scan the QR code for more info
+
+<img src="images/qrcode-edi-2023.png" width="300px">
+
+.f4[Or email the current EDI committee chair]
+
+.f4[[**jessica.kasza@monash.edu**](mailto:jessica.kasza@monash.edu)]
+
+]
+
+.w-50[
+<br>
+The SSA is committed to ensuring that our Society is inclusive,
+welcoming, and accessible to all.
+
+<br>
+
+If you’re enthusiastic about equity, driven by diversity, and
+interested in inclusion, WE WANT YOU!
+
+<br>
+
+**Want to contribute? Have an EDI issue you’d like the Society to consider?**
+
+]
 
 ---
 
