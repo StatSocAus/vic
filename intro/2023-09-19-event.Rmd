@@ -325,7 +325,7 @@ class: inverse middle
 .circle-image-120.pb3[
 <img src="images/rheanna-mainzer.jpg">]
 .circle-image-120.pb3[
-<img src="images/ximena-camacho.jpg">]
+<img src="images/ximena-camacho.JPG">]
 .circle-image-120[
 <img src="images/damian-pavlyshyn.png">]
 ]
