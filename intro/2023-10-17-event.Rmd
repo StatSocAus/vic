@@ -248,7 +248,7 @@ Email the current EDI committee chair:
 
 - <i class="fas fa-calendar"></i> **Monday 30th October** <br> *Hacky Hour: Making R Packages* <br>
 Online at 12pm AEDT<br>
-Hacky hours are informal get-togethrs, so come along!
+Hacky hours are informal get-togethers, so come along! https://statsoc.org.au/event-5431265
 
 <br>
 
