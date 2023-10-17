@@ -246,14 +246,15 @@ Email the current EDI committee chair:
 # Upcoming events
 
 
-- <i class="fas fa-calendar"></i> **Monday 30th October** <br><br> *Hacky Hour: Making R Packages* <br>
+- <i class="fas fa-calendar"></i> **Monday 30th October** <br> *Hacky Hour: Making R Packages* <br>
 Online at 12pm AEDT<br>
 Hacky hours are informal get-togethrs, so come along!
 
 <br>
 
-- <i class="fas fa-calendar"></i> **Tuesday 21st November** <br><br>*Panel discussion on the role of Statisticians in Society* <br>
+- <i class="fas fa-calendar"></i> **Tuesday 21st November** <br>*Panel discussion on the role of Statisticians in Society* <br>
 With Professor Ian Gordon and Jenny Telford, more panellists to be announced!
+Registration via: https://statsoc.org.au/event-5457281
 
 
 ---
