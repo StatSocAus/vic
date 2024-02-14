@@ -291,7 +291,7 @@ class: inverse middle
 ## Belz Lecture: Mathematics, Gender and Statistics
 
 .circle-image-200.fl[
-<img src="https://statsoc.org.au/resources/Pictures/Branches/Vic/james-goldie.jpg">]
+<img src="images/james-goldie.jpg">]
 
 
 ### &nbsp;**Dr James Goldie**   
