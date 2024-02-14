@@ -1,5 +1,5 @@
 ---
-output: github_document
+format: gfm
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -12,9 +12,9 @@ knitr::opts_chunk$set(
 library(tidyverse)
 ```
 
-# SSA Vic
+# SSA Vic & Tas
 
-[This repo](https://github.com/StatSocAus/vic) contains materials to host the intro HTML slides used in the events of the Victorian Branch of Statistical Society of Australia (SSA Vic). 
+[This repo](https://github.com/StatSocAus/vic) contains materials to host the intro HTML slides used in the events of the Victorian and Tasmanian Branch of Statistical Society of Australia (SSA Vic & Tas). 
 
 For more information about SSA Vic, please see the following.
 
