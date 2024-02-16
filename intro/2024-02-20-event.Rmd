@@ -100,7 +100,7 @@ We acknowledge that we are on the lands of the Wurundjeri and Boonwurrung people
 
 <br>
 
-We extend our welcome to also the traditional owners of the lands people in our livestream are joining from.
+We extend our welcome also to the traditional owners of the lands from which people in our livestream are joining.
 
 ]
 
@@ -228,12 +228,12 @@ class: inverse middle
 
 
 - <i class="fas fa-calendar"></i> **Tuesday 19 March** <br> *SSA Vic & Tas Annual General Meeting* <br>
-Staff Tea Room, Peter Hall, University of Melbourne or online at 6pm AEDT<br>
+Staff Tea Room, Peter Hall Building, University of Melbourne or online at 5:30pm AEDT<br>
 
 <br>
 
 - <i class="fas fa-calendar"></i> **Tuesday 19 March** <br> *March Event* <br>
-Evan Williams Theatre, Peter Hall, University of Melbourne or online at 6:30pm AEDT<br>
+Evan Williams Theatre, Peter Hall Building, University of Melbourne or online at 6:00pm AEDT<br>
 ADD DESCRIPTION OF TALK, SPEAKER AND LINK TO REGISTER.
 
 
@@ -293,22 +293,15 @@ class: inverse middle
 .circle-image-200.fl[
 <img src="images/james-goldie-ext.jpg">]
 
-
-### &nbsp;**Dr James Goldie**   
-
+### &nbsp;&nbsp;**Dr James Goldie**   
 
 
-&nbsp;&nbsp;*Data and Digital Storytelling Lead, 360info*
-
+&nbsp;*James Goldie is the Data and Digital Storytelling Lead with 360info, an open newswire supported by Monash University. He has a PhD in climate science from UNSW and has been coding in R since 2014.*
 <br><br>
 
 
-
-<br>
-
 .f4[
-Thanks to **Ben Harrap** (Event Coordinator)
- and<br> **Alun Pope** (Deputy Event Coordinators)
+Thanks to **Ben Harrap** (Event Coordinator) and **Alun Pope** (Deputy Event Coordinator)
 
 ]
 
