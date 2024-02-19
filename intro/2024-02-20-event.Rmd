@@ -137,7 +137,7 @@ name: council
 
 .flex[
 .w-20[
-`r person("ben.jpg", "Ben Harrap", "President", "@BHarrap")`
+`r person("alun.jpg", "Alun Pope", "Interim President")`
 ]
 .w-20[
 `r person("emi.jpeg", "Emi Tanaka", "Vice-President", "@statsgen")`
@@ -166,9 +166,6 @@ name: council
 `r person("melissa.jpg", "Melissa Middleton", "ECSS Rep", twitter = "@MK_Middleton")`
 ]
 .w-20[
-`r person("alun.jpg", "Alun Pope", "Deputy Secretary")`
-]
-.w-20[
 `r person("anna.jpg", "Anna Wilkinson", "Deputy Treasurer", twitter = "@AnnaLWil")`
 ]
 .w-20[
@@ -179,6 +176,9 @@ name: council
 ]
 .w-20[
 `r person("swen.jpg", "Swen Kuh", "Membership Officer", twitter = "@swenkuh")`
+]
+.w-20[
+<!-- `r person("alun.jpg", "Alun Pope", "Deputy Secretary")` -->
 ]
 ]
 
@@ -228,13 +228,14 @@ class: inverse middle
 
 
 - <i class="fas fa-calendar"></i> **Tuesday 19 March** <br> *SSA Vic & Tas Annual General Meeting* <br>
-Staff Tea Room, Peter Hall Building, University of Melbourne or online at 5:30pm AEDT<br>
+University of Melbourne, CSIRO Battery Point (Hobart hub) or online at <br> 5:30pm AEDT. Register: https://statsoc.org.au/event-5621667 <br>
 
 <br>
 
 - <i class="fas fa-calendar"></i> **Tuesday 19 March** <br> *March Event* <br>
-Evan Williams Theatre, Peter Hall Building, University of Melbourne or online at 6:00pm AEDT<br>
-*Developing standards*, Helen Baird, Australian Bureau of Statistics
+*Developing standards*, Helen Baird, Australian Bureau of Statistics. <br> 
+University of Melbourne, CSIRO Battery Point (Hobart hub) or online at <br> 6:00pm AEDT<br>
+Register: https://statsoc.org.au/event-5620104
 
 
 <br>
