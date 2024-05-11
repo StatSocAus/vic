@@ -51,7 +51,7 @@ council %>%
 ```
 
 
-\*According to the original Victorian Branch Constitution, the Branch
+\*According to the original Victorian & Tasmanian Branch Constitution, the Branch
 President had to be elected each year. An individual could serve as the
 Branch President for a maximum of two years in succession, then as the
 Immediate Past President for one or two years, as the circumstances
