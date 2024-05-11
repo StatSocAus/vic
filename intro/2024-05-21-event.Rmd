@@ -140,7 +140,7 @@ name: council
 `r person("alun.jpg", "Alun Pope", "Interim President")`
 ]
 .w-20[
-`r person("inge.jpeg", "Inge Koch", "Vice-President")`
+`r person("inge.jpg", "Inge Koch", "Vice-President")`
 ]
 .w-20[
 `r person("elena.jpg", "Elena Tartaglia", "Secretary", twitter = "@elena_tartaglia")`
@@ -152,7 +152,7 @@ name: council
 `r person("dennis.png", "Dennis Leung", "Membership Officer")`
 ]
 .w-20[
-`r person("stelios.jpeg", "Stelios Georgiou", "Communication Officer")`
+`r person("stelios.jpg", "Stelios Georgiou", "Communication Officer")`
 ]
 
 
@@ -163,7 +163,7 @@ name: council
 
 .flex[
 .w-20[
-`r person("chris.jpg", "Chris Selman", "ECSS Rep")`
+`r person("chris.png", "Chris Selman", "ECSS Rep")`
 ]
 .w-20[
 `r person("anna.jpg", "Anna Wilkinson", "Deputy Treasurer", twitter = "@AnnaLWil")`
@@ -175,16 +175,16 @@ name: council
 `r person("swen.jpg", "Swen Kuh", "Membership Officer", twitter = "@swenkuh")`
 ]
 .w-20[
-`r person("paul.jpg", "Paul Burch", "Tasmanian Rep")`
+`r person("paul.JPG", "Paul Burch", "Tasmanian Rep")`
 ]
 ]
 
-<!-- -- -->
+--
 
-<!-- .center.animated.pulse.infinite.slow[ -->
-<!-- **We are seeking expressions of interest for  joining the council in 2024!** -->
+.center.animated.pulse.infinite.slow[
+**We are seeking expressions of interest for  joining the council in 2024!**
 
-<!-- ] -->
+]
 
 
 ---
@@ -212,7 +212,7 @@ The Great Australian <br>Statisticians T-Shirt
 <i class="fa fa-envelope color-secondary"></i> [vic.branch@statsoc.org.au](mailto:vic.branch@statsoc.org.au) <br><i class="fa fa-envelope color-primary"></i> [eo@statsoc.org.au](mailto:eo@statsoc.org.au)  
 
 <br><Br>
-<i class="fab fa-twitter color-secondary animated bounce"></i> [@SSAVictoria](https://twitter.com/SsaVictoria) &nbsp;&nbsp;&nbsp; <i class="fab fa-twitter color-primary"></i> [@StatSocAus](https://twitter.com/StatSocAus)  
+<i class="fab fa-linkedin color-secondary animated bounce"></i> [SSA Victoria and Tasmania](https://www.linkedin.com/company/ssa-victoria-and-tasmania/)  
   <br>
 <i class="fab fa-meetup color-secondary"></i> [bit.ly/ssavic-meetup](http://bit.ly/ssavic-meetup)  
 ]
@@ -265,16 +265,29 @@ Let us know if you want to join!
 
 class: inverse middle
 
-## Statistical Standards in the ABS
+## Using leave-one-out cross-validation in a multilevel regression and poststratification workflow: a cautionary tale
 
-### **Helen Baird and Dr Fiona Manson of the ABS**   
+.circle-image-200.fl[
+<img src="images/swen-kuh.jpg">]
 
 
-Helen and Fiona will discuss what statistical standards are in the ABS and why they are needed. They will share how ABS statistical standards are created and why they need to be maintained. Importantly, they will show where to find them on the ABS website, and how to get assistance with their use.
+### &nbsp;**Dr Swen Kuh**   
+
+
+
+&nbsp;&nbsp;*Monash University*
+
 <br><br>
 
-*Helen Baird is Director, Statistical Standards and Infrastructure and Dr Fiona Manson is Assistant Director, Social Standards Team.*
-<br>
+
+.f4[
+Thanks to **Rick Tankard** (Event Coordinator)
+ and  **Dennis Leung** (Deputy Event Coordinator)
+
+]
+
+
+???
 
 
 
