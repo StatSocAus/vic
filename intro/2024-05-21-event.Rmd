@@ -137,7 +137,7 @@ name: council
 
 .flex[
 .w-20[
-`r person("alun.jpg", "Alun Pope", "Interim President")`
+`r person("alun.jpg", "Alun Pope", "President")`
 ]
 .w-20[
 `r person("inge.jpg", "Inge Koch", "Vice-President")`
