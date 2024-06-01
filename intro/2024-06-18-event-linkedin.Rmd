@@ -1,0 +1,170 @@
+---
+title: "Statistical Society of Australia<br> Victorian & Tasmanian Branch"
+subtitle: "Social media posters for June Event"
+author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
+email: "vic.branch@statsoc.org.au"
+date: "18 June 2024"
+output:
+  xaringan::moon_reader:
+    css:
+      - xaringan-themer.css
+      - "assets/font-awesome-all.css"
+      - "assets/animate.css"
+      - "assets/styles.css"
+      - "assets/fonts.css"
+      - "assets/tachyons-addon.css"
+    self_contained: false 
+    seal: true 
+    chakra: 'lib/remark-latest.min.js'
+    lib_dir: lib
+    nature:
+      highlightStyle: magula
+      highlightLanguage: r 
+      highlightLines: true
+      highlightSpans: false 
+      countIncrementalSlides: false
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: false 
+        touch: true
+        click: false
+      ratio: '16:9'
+---
+
+layout: true
+
+```{r, include = FALSE}
+current_file <- knitr::current_input()
+basename <- gsub(".Rmd$", "", current_file)
+
+knitr::opts_chunk$set(
+  fig.path = sprintf("images/%s/", basename),
+  fig.width = 6,
+  fig.height = 4,
+  fig.align = "center",
+  fig.retina = 3,
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  cache = FALSE,
+  cache.path = "cache/"
+)
+```
+
+
+
+
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#003469",
+                 secondary_color = "#2babe2",
+                 text_font_family = "Glacial Indifference",
+                 header_font_family = "Glacial Indifference",
+                 text_font_size = "30px"
+                )
+charcoal <- "#58595b"
+```
+
+```{css, echo = FALSE}
+.speaker-photo {
+  width: 150px;
+  border: 3px solid black;
+  border-radius: 5px;
+}
+```
+
+
+
+
+
+
+```{r}
+person <- function(img, name, position = NULL, twitter = NULL) {
+  position <- ifelse(is.null(position), "", 
+                     paste0("**", position, "**"))
+  twitter <- ifelse(is.null(twitter),
+                    "",
+                    paste0("<i class='fab fa-twitter'></i>", twitter))
+  glue::glue(".person.f6[
+                    .circle-image-120[
+                    <img src='images/{img}'>]
+                    {position}  
+                    {name}  
+                    {twitter}]")
+}
+```
+
+---
+
+name: panel
+
+# SSA Vic & Tas June Mentoring Event
+
+Are you interested in a career in statistics or data science? Join us in Melbourne for an evening of networking with  statisticians and data professionals. 
+
+
+.flex[
+.w-20[
+`r person("kristy-butler.jpg", "Lead Data Scientist, Country Fire Authority", "Kristy Butler")`
+]
+.w-20[
+`r person("mabel-chen.jpg", "Senior Policy Officer and Data Analyst, Victorian Department of Education", "Mabel Chen")`
+]
+.w-20[
+`r person("yang-chen.jpeg", "Senior Data Scientist, Department of Transport and Planning", "Yang Chen")`
+]
+.w-20[
+`r person("stelios-georgiou.jpg", "Associate Professor, RMIT University", "Stelios Georgiou")`
+]
+]
+
+.flex[
+.w-20[
+`r person("lyle-gurrin.jpeg", " Professor of Biostatistics, University of Melbourne", "Lyle C. Gurrin")`
+]
+.w-20[
+`r person("rebecca-harding.jpeg", "Clinical Trial Statistician, Walter and Eliza Hall Institute of Medical Research", "Rebecca Harding")`
+]
+.w-20[
+`r person("xiaochi-liu.jpeg", "Senior Spatial Data Analyst, Environment Protection Authority", "Xiaochi Liu")`
+]
+.w-20[
+`r person("laleh-tafakori.jpg", "Senior Lecturer, RMIT University", "Laleh Tafakori")`
+]
+]
+
+
+]
+
+
+
+---
+name: speaker
+
+class: inverse middle
+
+## Talk title
+
+.circle-image-200.fl[
+<img src="images/photo.jpg">]
+
+
+### &nbsp;**Speaker Name**   
+&nbsp;&nbsp;*Speaker Institute*
+<br><br>
+
+&nbsp;&nbsp;Date and time: 6 pm Tuesday xx month year
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: (main location) OR (hub) OR online
+
+<br><br>
+
+**Register your attendance on the SSA website**
+
+
+
+
+
+???
+
