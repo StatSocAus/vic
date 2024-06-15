@@ -1,9 +1,9 @@
 ---
 title: "Statistical Society of Australia<br> Victorian & Tasmanian Branch"
-subtitle: "May Event"
+subtitle: "June Mentoring Event"
 author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
 email: "vic.branch@statsoc.org.au"
-date: "21 May 2024"
+date: "18 June 2024"
 output:
   xaringan::moon_reader:
     css:
@@ -49,6 +49,8 @@ knitr::opts_chunk$set(
   cache = FALSE,
   cache.path = "cache/"
 )
+
+library(countdown)
 ```
 
 
@@ -100,7 +102,7 @@ We acknowledge that we are on the lands of the Wurundjeri and Boonwurrung people
 
 <br>
 
-We extend our welcome also to the traditional owners of the lands from which people in our livestream are joining.
+<!-- We extend our welcome also to the traditional owners of the lands from which people in our livestream are joining. -->
 
 ]
 
@@ -156,7 +158,7 @@ name: council
 ]
 
 
-
+**Tonight's event organisers are Chris, Elena and Inge.**
 
 
 ]
@@ -177,13 +179,6 @@ name: council
 .w-20[
 `r person("paul.JPG", "Paul Burch", "Tasmanian Rep")`
 ]
-]
-
---
-
-.center.animated.pulse.infinite.slow[
-**We are seeking expressions of interest for  joining the council in 2024!**
-
 ]
 
 
@@ -238,59 +233,126 @@ The Great Australian <br>Statisticians T-Shirt
 
 ---
 
+# Schedule
 
-class: center middle
+.pull-left[
 
-# <i class="fab fa-slack"></i> SSA Community Slack
-
-
-
-.f1[[bit.ly/ssa-slack](https://bit.ly/ssa-slack)]
-
----
-
-class: center middle
-
-# <i class="fas fa-utensils"></i> Call for dinner
-
-We'll be heading to a nearby restaurant after the talk.
-
-Let us know if you want to join!
-
-
-
-
-
----
-
-class: inverse middle
-
-## Using leave-one-out cross-validation in a multilevel regression and poststratification workflow: a cautionary tale
-
-.circle-image-200.fl[
-<img src="images/swen-kuh.jpg">]
-
-
-### &nbsp;**Dr Swen Kuh**   
-
-
-
-&nbsp;&nbsp;*Monash University*
-
-<br><br>
-
-
-.f4[
-Thanks to **Rick Tankard** (Event Coordinator)
- and  **Dennis Leung** (Deputy Event Coordinator)
+| Time | Activity |
+| ----- | ----- |
+| 6:10 | Intro slides |
+| 6:15 | Mentor introductions |
+| 6:30 | First round |
+| 6:40 | Second round |
+| ...  | ... | 
+| 7:40 | Last round |
+| 7:50 | Wrap up and general mingling|
+| 8:30 | Room booking ends
 
 ]
 
 
+.pull-right[
+Instructions
+- One mentor, max 4 mentees per table
+- Chat for 10 minutes, then mentors will move to next table
+
+
+Catering
+
+- Finger food will be served
+- Each attendee gets one drink voucher (worth up to $10)
+]
+
+
+```{r}
+mentor <- function(img, name, position = NULL, twitter = NULL) {
+  position <- ifelse(is.null(position), "", 
+                     paste0("**", position, "**"))
+  twitter <- ifelse(is.null(twitter),
+                    "",
+                    paste0("<i class='fab fa-twitter'></i>", twitter))
+  glue::glue(".person.f6[
+                    .circle-image-120[
+                    <img src='images/{img}'>]
+                    {position}  
+                    {name}  
+                    {twitter}]")
+}
+```
+
+---
+
+# Mentor introductions 
+
+
+.flex[
+.w-20[
+`r mentor("kristy-butler.jpg", "Lead Data Scientist, Country Fire Authority", "Kristy Butler")`
+]
+.w-20[
+`r mentor("mabel-chen.jpg", "Senior Policy Officer and Data Analyst, Victorian Department of Education", "Mabel Chen")`
+]
+.w-20[
+`r mentor("yang-chen.jpeg", "Senior Data Scientist, Department of Transport and Planning", "Yang Chen")`
+]
+.w-20[
+`r mentor("stelios-georgiou.jpg", "Associate Professor, RMIT University", "Stelios Georgiou")`
+]
+]
+
+.flex[
+.w-20[
+`r mentor("lyle-gurrin.jpeg", " Professor of Biostatistics, University of Melbourne", "Lyle C. Gurrin")`
+]
+.w-20[
+`r mentor("rebecca-harding.jpeg", "Clinical Trial Statistician, Walter and Eliza Hall Institute of Medical Research", "Rebecca Harding")`
+]
+.w-20[
+`r mentor("xiaochi-liu.jpeg", "Senior Spatial Data Analyst, Environment Protection Authority", "Xiaochi Liu")`
+]
+.w-20[
+`r mentor("laleh-tafakori.jpg", "Senior Lecturer, RMIT University", "Laleh Tafakori")`
+]
+]
+
+
+]
+
+---
+
+# Let's get networking!
+
+```{r}
+countdown(minutes = 10, seconds = 0, play_sound = TRUE, top = 0, warn_when = 60,
+          font_size = "4em")
+```
+
+
+<br><br>
+
+Some questions to get you started
+
+- What made you pursue a career in stats/data science?
+
+
+- What did you study and what skills from those studies do you use in your work?
+
+
+- What do you most like/dislike about your work?
+
+
+- What does a typical work day look like for you?
+
 ???
 
+Timer: click to start/stop, esc to reset
+
+---
 
 
+class: inverse middle
 
-???
+# Thank you for attending!
+
+You may now mingle with your fellow attendees. Room booking ends at 8:30 pm.
 
