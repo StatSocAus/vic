@@ -158,9 +158,6 @@ name: council
 ]
 
 
-**Tonight's event organisers are Chris, Elena and Inge.**
-
-
 ]
 
 .flex[
@@ -181,6 +178,10 @@ name: council
 ]
 ]
 
+<br>
+.center[
+**Tonight's event organisers are Chris, Elena and Inge.**
+]
 
 ---
 
@@ -230,6 +231,23 @@ The Great Australian <br>Statisticians T-Shirt
   * Full membership is $265 annually 
   * [Recent graduates, ABS employees, and retired members are eligible for discounts](https://statsoc.org.au/Forum-general-topics/12893603)!
   * Benefits: https://www.statsoc.org.au/page-1075427
+  
+  
+---
+
+# Upcoming events
+
+
+- <i class="fas fa-calendar"></i> **Tuesday 16 July** <br><br> *Seminar on Explainable AI with Dr Carolyn Huston* <br>
+Both in-person and online, Monash University Caufield.
+
+<br>
+
+- <i class="fas fa-calendar"></i> **Tuesday 20 August** <br><br> *Seminar on Causal Inference in Machine Learning with Dr Daisy Shepherd* <br>
+Both in-person and online, RMIT University CBD.
+
+
+
 
 ---
 
