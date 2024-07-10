@@ -176,6 +176,9 @@ name: council
 .w-20[
 `r person("paul.JPG", "Paul Burch", "Tasmanian Rep")`
 ]
+.w-20[
+`r person("aek.jpg", "Alexander Ek", "Deputy Communication Officer")`
+]
 ]
 
 <br>
@@ -243,8 +246,13 @@ The Great Australian <br>Statisticians T-Shirt
 
 <!-- <br> -->
 
-- <i class="fas fa-calendar"></i> **Tuesday 20 August** <br><br> *Seminar on Causal Inference in Machine Learning with Dr Daisy Shepherd* <br>
+- <i class="fas fa-calendar"></i> **Tuesday 20 August** <br> *Seminar on Causal Inference in Machine Learning with Dr Daisy Shepherd* <br>
 Both in-person and online, RMIT University CBD.
+
+<br> 
+ 
+- <i class="fas fa-calendar"></i> **August - Date TBC** <br> *August Social Event -- Bowling 🎳* <br>
+CBD Kingpin Crown Bowling.
 
 
 ---
