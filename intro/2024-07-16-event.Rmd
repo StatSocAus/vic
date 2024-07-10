@@ -154,9 +154,8 @@ name: council
 `r person("dennis.png", "Dennis Leung", "Membership Officer")`
 ]
 .w-20[
-`r person("stelios.jpg", "Stelios Georgiou", "Communication Officer")`
+`r person("stelios.jpg", "Stelios Georgiou", "Communications Officer")`
 ]
-
 
 ]
 
@@ -165,20 +164,21 @@ name: council
 `r person("chris.png", "Chris Selman", "ECSS Rep")`
 ]
 .w-20[
-`r person("anna.jpg", "Anna Wilkinson", "Deputy Treasurer", twitter = "@AnnaLWil")`
-]
-.w-20[
 `r person("patrick.jpeg", "Patrick Robotham", "Industry Rep", twitter = "@PatrickRobotham")`
-]
-.w-20[
-`r person("swen.jpg", "Swen Kuh", "Membership Officer", twitter = "@swenkuh")`
 ]
 .w-20[
 `r person("paul.JPG", "Paul Burch", "Tasmanian Rep")`
 ]
 .w-20[
-`r person("aek.jpg", "Alexander Ek", "Deputy Communication Officer")`
+`r person("anna.jpg", "Anna Wilkinson", "Deputy Treasurer", twitter = "@AnnaLWil")`
 ]
+.w-20[
+`r person("swen.jpg", "Swen Kuh", "Membership Officer", twitter = "@swenkuh")`
+]
+.w-20[
+`r person("alex-ek.jpg", "Alexander Ek", "Deputy Communications Officer")`
+]
+
 ]
 
 <br>
