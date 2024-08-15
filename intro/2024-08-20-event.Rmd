@@ -180,7 +180,6 @@ name: council
 
 ]
 
-<br>
 .center[
 **Tonight's event organisers are Chris and Elena**
 ]
@@ -265,6 +264,28 @@ Let us know if you want to join!
 
 class: inverse middle
 
+## SSA Service Award 🎉🏆
+
+.circle-image-200.fl[
+<img src="images/jesskasza.jpg">]
+
+### &nbsp;&nbsp;**Professor Jessica Kasza**  
+
+
+&nbsp;*Jessica Kasza is a Professor in biostatistics in the School of Public Health and Preventive Medicine at Monash University and ex-President of the Statisical Society of Australia.*
+<br><br>
+
+
+.f4[
+Thanks to Jess for her contribution to the society!
+]
+
+
+
+---
+
+class: inverse middle
+
 ## Causal machine learning in health research
 
 .circle-image-200.fl[
@@ -277,6 +298,3 @@ class: inverse middle
 <br><br>
 
 
-.f4[
-Thanks to **Chris Selman** (Event Coordinator) and **Elena Tartaglia** (Deputy Event Coordinator)
-]
