@@ -104,4 +104,29 @@ For more information about SSA Vic, please see the following.
 <li>
 <a href='https://statsocaus.github.io/vic/intro/2024-02-20-event.html'>2024-02-20-event</a>
 </li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2024-03-19-event.html'>2024-03-19-event</a>
+</li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2024-05-21-event.html'>2024-05-21-event</a>
+</li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2024-06-18-event-linkedin.html'>2024-06-18-event-linkedin</a>
+</li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2024-06-18-event.html'>2024-06-18-event</a>
+</li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2024-06-18-mentoring-event.html'>2024-06-18-mentoring-event</a>
+</li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2024-07-16-event.html'>2024-07-16-event</a>
+</li>
+<li>
+<a href='https://statsocaus.github.io/vic/intro/2024-08-20-event.html'>2024-08-20-event</a>
+</li>
 </ul>
+<a href='https://statsocaus.github.io/vic/intro/2024-09-17-event.html'>2024-09-17-event</a>
+</li>
+</ul>
+
