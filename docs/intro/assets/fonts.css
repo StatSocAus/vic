@@ -1,0 +1,37 @@
+
+
+@font-face {
+  font-family: 'Glacial Indifference';
+  font-style: italic;
+  src: url('fonts/GlacialIndifference-Italic.eot'); /* IE9 Compat Modes */
+  src: local('Glacial Indifference Italic'),
+       url('fonts/GlacialIndifference-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/GlacialIndifference-Italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/GlacialIndifference-Italic.woff') format('woff'), /* Modern Browsers */
+       url('fonts/GlacialIndifference-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/GlacialIndifference-Italic.svg#Roboto') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Glacial Indifference';
+  font-style: bold;
+  src: url('fonts/GlacialIndifference-Bold.eot'); /* IE9 Compat Modes */
+  src: local('Glacial Indifference Bold'),
+       url('fonts/GlacialIndifference-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/GlacialIndifference-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/GlacialIndifference-Bold.woff') format('woff'), /* Modern Browsers */
+       url('fonts/GlacialIndifference-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/GlacialIndifference-Bold.svg#Roboto') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'Glacial Indifference';
+  font-style: normal;
+  src: url('fonts/GlacialIndifference-Regular.eot'); /* IE9 Compat Modes */
+  src: local('Glacial Indifference Regular'), 
+       url('fonts/GlacialIndifference-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/GlacialIndifference-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/GlacialIndifference-Regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/GlacialIndifference-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/GlacialIndifference-Regular.svg#Roboto') format('svg'); /* Legacy iOS */
+}
