@@ -98,7 +98,15 @@ We extend our welcome also to the traditional owners of the lands from which peo
 
 
 
+---
 
+# Introducing: National Speaker Series Seminar
+
+- Monthly online (or hybrid) statistics and data science seminars.
+
+- May to November 2025
+
+- Hosted by the SSA Branches.
 
 
 
@@ -174,9 +182,9 @@ name: council
 
 ]
 
-<!-- .center[ -->
-<!-- **Tonight's event organiser is Elena** -->
-<!-- ] -->
+.center[
+**Today's event organisers are Elena and Rick**
+]
 
 ---
 
@@ -200,7 +208,7 @@ The Great Australian <br>Statisticians T-Shirt
 <br>
 <i class="fa fa-link color-secondary"></i>  [www.statsoc.org.au/Victoria](https://www.statsoc.org.au/Victoria)
 <br>
-<i class="fa fa-envelope color-secondary"></i> [vic.branch@statsoc.org.au](mailto:vic.branch@statsoc.org.au) <br><i class="fa fa-envelope color-primary"></i> [eo@statsoc.org.au](mailto:eo@statsoc.org.au)  
+<i class="fa fa-envelope color-secondary"></i> [vic.branch@statsoc.org.au](mailto:vic.branch@statsoc.org.au) <br><i class="fa fa-envelope color-primary"></i> [contact@statsoc.org.au](mailto:contact@statsoc.org.au)  
 
 <br><Br>
 <i class="fab fa-linkedin color-secondary animated bounce"></i> [SSA Victoria and Tasmania](https://www.linkedin.com/company/ssa-victoria-and-tasmania/)  
@@ -242,8 +250,6 @@ Location: In person in Melbourne. <br>
 
 - <i class="fas fa-calendar"></i> **July** <br> *Mentoring Night* <br>
 Location: Online. <br><br>
-
-
 
 
 ---
