@@ -241,10 +241,12 @@ The Great Australian <br>Statisticians T-Shirt
 
 class: inverse middle
 
+# Belz Lecture
+
 ## Laws and Orders 
 
 .circle-image-200.fl[
-<img src="images/cynthia_huang.jpg">]
+<img src="images/ecss-showcase-2025/thomas-lumley.png">]
 
 
 ### &nbsp;**Professor Thomas Lumley**   
