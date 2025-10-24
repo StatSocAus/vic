@@ -259,17 +259,31 @@ name: council
 # ECSS Showcase Presenters
 
 
+.flex[
+
+.w-20[
+`r person("meg_tully_headshot.JPG", path = "ecss-showcase-2025/", "Meg Tully")`
+]
+
+.w-20[
+`r person("Kabir_Ahmad_Biostatistician.jpg", path = "ecss-showcase-2025/", "Kabir Ahmad")`
+]
+
+]
 
 .flex[
 
 .w-20[
-`r person("images/ecss-showcase-2025/meg_tully_headshot.JPG", "Meg Tully", "University of Melbourne")`
+`r person("Peta_Edler_Doherty_photo.jpg", path = "ecss-showcase-2025/", "Peta Edler")`
 ]
 
 .w-20[
-`r person("images/ecss-showcase-2025/Rong_Chen.jpg", "Rong Chen", "University of Melbourne")`
+`r person("tinula-kariyawasam.jpeg", path = "ecss-showcase-2025/", "Tinula Kariyawasam")`
 ]
 
+.w-20[
+`r person("Rong_Chen.jpg", path = "ecss-showcase-2025/", "Rong Chen")`
+]
 
 ]
 
