@@ -1,6 +1,6 @@
 ---
 title: "Statistical Society of Australia<br> Victorian & Tasmanian Branch"
-subtitle: "ECSS Showcase"
+subtitle: "Belz Lecture and ECSS Showcase"
 author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
 email: "vic.branch@statsoc.org.au"
 date: "27 October 2025"
@@ -176,10 +176,6 @@ name: council
 
 ]
 
-.center[
-**Today's event organisers are Rick, Alun, Dennis, Chris and Cong Sun**
-]
-
 ---
 
 name: contact
@@ -234,7 +230,44 @@ The Great Australian <br>Statisticians T-Shirt
 
 # Upcoming events
 
+- <i class="fas fa-calendar"></i> **Friday, 31st October, 11:30 am** <br> *Branch National Speaker Series - "Spooky Stats" Tasmania Statistics Session*, CSIRO Hobart/online. <br><br>
 - <i class="fas fa-calendar"></i> **1-5 December** <br> *Australian Statistical Conference*, Perth. <br><br>
+
+
+
+
+
+---
+
+name: Event organising committee
+
+# Event organising committee
+
+&nbsp;
+
+&nbsp;
+
+
+.flex[
+
+.w-20[
+`r person("rick.jpg", "Rick Tankard")`
+]
+.w-20[
+`r person("chris.png", "Chris Selman")`
+]
+.w-20[
+`r person("dennis.png", "Dennis Leung")`
+]
+.w-20[
+`r person("Cong_Sun_2025.jpg", path = "ecss-showcase-2025/", "Cong Sun")`
+]
+.w-20[
+`r person("alun.jpg", "Alun Pope")`
+]
+
+]
+
 
 
 ---
@@ -256,10 +289,13 @@ class: inverse middle
 
 ---
 
-name: council
+name: ecss_presenters
 
 # ECSS Showcase Presenters
 
+&nbsp;
+
+&nbsp;
 
 .flex[
 
@@ -270,10 +306,6 @@ name: council
 .w-20[
 `r person("Kabir_Ahmad_Biostatistician.jpg", path = "ecss-showcase-2025/", "Kabir Ahmad")`
 ]
-
-]
-
-.flex[
 
 .w-20[
 `r person("Peta_Edler_Doherty_photo.jpg", path = "ecss-showcase-2025/", "Peta Edler")`
@@ -287,6 +319,15 @@ name: council
 `r person("Rong_Chen.jpg", path = "ecss-showcase-2025/", "Rong Chen")`
 ]
 
+]
+
+&nbsp;
+
+&nbsp;
+
+
+.center[
+**The ECSS event is chaired by Chris Selman**
 ]
 
 
