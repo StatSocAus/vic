@@ -97,7 +97,7 @@ We acknowledge that we are on the lands of the Wurundjeri and Boonwurrung people
 
 <br>
 
-We extend that acknowledgement to the Traditional Custodians of the lands from which everyone online is joining.
+<!-- We extend that acknowledgement to the Traditional Custodians of the lands from which everyone online is joining. -->
 ]
 
 ???
@@ -273,23 +273,6 @@ name: Event organising committee
 
 ---
 
-class: inverse middle
-
-# Belz Lecture
-
-## Laws and Orders 
-
-.circle-image-200.fl[
-<img src="images/ecss-showcase-2025/thomas-lumley.png">]
-
-
-### &nbsp;**Professor Thomas Lumley**   
-
-
-&nbsp;*Chair in Biostatistics, Department of Statistics, University of Auckland*
-
----
-
 name: ecss_presenters
 
 # ECSS Showcase Presenters
@@ -326,10 +309,27 @@ name: ecss_presenters
 
 &nbsp;
 
-
 .center[
 **The ECSS event is chaired by Chris Selman**
 ]
+
+
+---
+
+class: inverse middle
+
+# Belz Lecture
+
+## Laws and Orders 
+
+.circle-image-200.fl[
+<img src="images/ecss-showcase-2025/thomas-lumley.png">]
+
+
+### &nbsp;**Professor Thomas Lumley**   
+
+
+&nbsp;*Chair in Biostatistics, Department of Statistics, University of Auckland*
 
 
 ???
