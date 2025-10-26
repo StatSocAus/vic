@@ -231,6 +231,7 @@ The Great Australian <br>Statisticians T-Shirt
 # Upcoming events
 
 - <i class="fas fa-calendar"></i> **Friday, 31st October, 11:30 am** <br> *Branch National Speaker Series - "Spooky Stats" Tasmania Statistics Session*, CSIRO Hobart/online. <br><br>
+- <i class="fas fa-calendar"></i> **28th November, 6-8 pm** <br> *ECSS Social*, Grace Darling Hotel, Collingwood. <br><br>
 - <i class="fas fa-calendar"></i> **1-5 December** <br> *Australian Statistical Conference*, Perth. <br><br>
 
 
