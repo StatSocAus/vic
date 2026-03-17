@@ -195,5 +195,12 @@ name: council
 
 - <i class="fas fa-calendar"></i> **Tuesday, 24th March, 6:00 pm** <br> Branch AGM and Seminar: The Graphical Side of Statistical Consulting by Associate Professor Sue Finch, Melbourne University and Online. <br><br>
 
+---
+
+# Today's talks
+
+- Economic statistics
+- Environmental statistics
+- Agricultural statistics
 
 ???
