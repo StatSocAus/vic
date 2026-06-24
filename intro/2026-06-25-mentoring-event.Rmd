@@ -1,0 +1,346 @@
+---
+title: "Statistical Society of Australia<br> Victorian & Tasmanian Branch"
+subtitle: "Mentoring Event"
+author: "<img src='images/logo/other/png_transparent/SSA_Logotype_White-Blue.png' height='200px'/>"
+email: "vic.branch@statsoc.org.au"
+date: "25 June 2026"
+output:
+  xaringan::moon_reader:
+    css:
+      - xaringan-themer.css
+      - "assets/font-awesome-all.css"
+      - "assets/animate.css"
+      - "assets/styles.css"
+      - "assets/fonts.css"
+      - "assets/tachyons-addon.css"
+    self_contained: false 
+    seal: true 
+    chakra: 'lib/remark-latest.min.js'
+    lib_dir: lib
+    nature:
+      highlightStyle: magula
+      highlightLanguage: r 
+      highlightLines: true
+      highlightSpans: false 
+      countIncrementalSlides: false
+      slideNumberFormat: '%current%'
+      navigation:
+        scroll: false 
+        touch: true
+        click: false
+      ratio: '16:9'
+---
+
+layout: true
+
+```{r, include = FALSE}
+current_file <- knitr::current_input()
+basename <- gsub(".Rmd$", "", current_file)
+
+knitr::opts_chunk$set(
+  fig.path = sprintf("images/%s/", basename),
+  fig.width = 6,
+  fig.height = 4,
+  fig.align = "center",
+  fig.retina = 3,
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE,
+  cache = FALSE,
+  cache.path = "cache/"
+)
+
+library(countdown)
+```
+
+
+
+
+.footnote[
+<img style="vertical-align:middle" src='images/logo/other/png_transparent/SSA_Monogram_Navy-White.png' height='40px'/> These slides are available at https://statsocaus.github.io/vic/intro/`r basename`.html
+]
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_duo_accent(primary_color = "#003469",
+                 secondary_color = "#2babe2",
+                 text_font_family = "Glacial Indifference",
+                 header_font_family = "Glacial Indifference",
+                 text_font_size = "30px"
+                )
+charcoal <- "#58595b"
+```
+
+```{css, echo = FALSE}
+.speaker-photo {
+  width: 150px;
+  border: 3px solid black;
+  border-radius: 5px;
+}
+```
+
+
+
+---
+
+
+
+class: inverse middle
+
+# Welcome! 
+
+---
+
+# Acknowledgement of Country
+
+<!-- https://www.statsoc.org.au/Guidelines  -->
+
+<br><br>
+
+.w-70[
+We acknowledge that we are on the lands of the Wurundjeri and Boonwurrung peoples of the Kulin nation and who have been custodians of this land for thousands of years, and acknowledge and pay our respects to their Elders past and present.
+
+<br>
+
+<!-- We extend our welcome also to the traditional owners of the lands from which people in our livestream are joining. -->
+
+]
+
+
+
+
+
+
+
+
+```{r}
+person <- function(img, name, position = NULL, twitter = NULL, path = "council/") {
+  position <- ifelse(is.null(position), "", 
+                     paste0("**", position, "**"))
+  twitter <- ifelse(is.null(twitter),
+                    "",
+                    paste0("<i class='fab fa-twitter'></i>", twitter))
+  glue::glue(".person.f6[
+                    .circle-image-120[
+                    <img src='images/{path}{img}'>]
+                    {position}  
+                    {name}  
+                    {twitter}]")
+}
+```
+
+---
+
+name: council
+
+# 👋 SSA Vic & Tas Council 2026
+
+.flex[
+.w-20[
+`r person("elena.jpg", "Elena Tartaglia", "President")`
+]
+.w-20[
+`r person("alun.jpg", "Alun Pope", "Vice-President")`
+]
+.w-20[
+`r person("shuwen_hu.jpeg", "Shuwen Hu", "Secretary")`
+]
+.w-20[
+`r person("rick_tankard.png", "Rick Tankard", "Treasurer", twitter = "@RickTankard")`
+]
+.w-20[
+`r person("ninh_tran.jpg", "Ninh Tran", "Membership Officer")`
+]
+.w-20[
+`r person("victorino_marquez_grajales.jpeg", "Victorino Marquez Grajales", "Communications Officer")`
+]
+.w-20[
+`r person("tong-chen.jpeg", "Tong Chen", "ECSS Rep")`
+]
+]
+
+.flex[
+
+.w-20[
+`r person("sara_goliath.png", "Sara Goliath", "Industry Rep")`
+]
+.w-20[
+`r person("shane_richards.jpeg", "Shane Richards", "Tasmanian Rep")`
+]
+.w-20[
+`r person("ryan_covey.jpg", "Ryan Covey", "Deputy Secretary")`
+]
+.w-20[
+`r person("anna.jpg", "Anna Wilkinson", "Deputy Treasurer", twitter = "@AnnaLWil")`
+]
+.w-20[
+`r person("susan_wei.jpg", "Susan Wei", "Deputy Membership Officer")`
+]
+.w-20[
+`r person("hien_nguyen.png", "Hien Nguyen", "Deputy Comms Officer")`
+]
+]
+
+
+.center[
+**Thank you to tonight's event organisers: Sara, Tong and Elena.**
+]
+
+---
+
+name: contact
+
+
+
+# Membership
+* Annual fee
+  * $25 for students 
+  * $290 for full members
+  * [Recent graduates, ABS employees, and retired members are eligible for discounts](https://statsoc.org.au/Forum-general-topics/12893603)!
+* Benefits include
+  * Discounts on paid events and workshops
+  * Mentoring program
+  * ECSS Funding schemes
+  * End of year ECSS Social Event
+  
+  
+---
+
+# Upcoming events
+
+
+- <i class="fas fa-calendar"></i> **Wednesday 1 July, 8 am** *Meet the Council* <br>
+In-person, Anda Cafe (near Parliament Station)
+
+<br>
+
+- <i class="fas fa-calendar"></i> **August**  *Social event with R Ladies Melbourne* <br>
+In-person, Melbourne CBD.
+
+<br>
+
+- <i class="fas fa-calendar"></i> **November**  *Belz Lecture and ECSS Showcase* <br>
+In-person, University of Melbourne.
+
+
+
+
+---
+
+# Schedule
+
+.pull-left[
+
+| Time | Activity |
+| ----- | ----- |
+| 7:30 | Intro slides and Mentor introductions |
+| 7:40 | First round |
+| 7:50 | Second round |
+| ...  | ... | 
+| 8:50 | Last round |
+| 9:00 | Wrap up and reset the room. Kick-ons at Brunetti's? |
+| 9:30 | Room booking ends
+
+]
+
+
+.pull-right[
+Instructions
+- One mentor, 2-3 mentees per table
+- Chat for 10 minutes, then mentors will move to next table
+
+<br>
+Catering
+- Help yourself to food and drinks!
+
+]
+
+
+```{r}
+mentor <- function(img, name, position = NULL, twitter = NULL) {
+  position <- ifelse(is.null(position), "", 
+                     paste0("**", position, "**"))
+  twitter <- ifelse(is.null(twitter),
+                    "",
+                    paste0("<i class='fab fa-twitter'></i>", twitter))
+  glue::glue(".person.f6[
+                    .circle-image-120[
+                    <img src='images/{img}'>]
+                    {position}  
+                    {name}  
+                    {twitter}]")
+}
+```
+
+---
+
+# Mentor introductions 
+
+
+.flex[
+.w-20[
+`r mentor("anna_quaglieri.png", "Senior Bioinformatics Data Scientist, Mass Dynamics", "Anna Quaglieri")`
+]
+.w-20[
+`r mentor("humberto jimenez.jpg", "Manager in the Digital & Technology Advisory team, BDO", "Humberto Jimenez")`
+]
+.w-20[
+`r mentor("logo/main_use/SSA_Logotype_MAIN USE.jpg", "Data Scientist, Department of Energy, Environment and Climate Action", "Jason Rennie")`
+]
+.w-20[
+`r mentor("lizzie_silver.jpeg", "Senior Data Scientist, WSP Digital", "Lizzie Silver")`
+]
+]
+
+.flex[
+.w-20[
+`r mentor("lyle-gurrin.jpeg", " Professor of Biostatistics, University of Melbourne", "Lyle C. Gurrin")`
+]
+.w-20[
+`r mentor("stella_stylianou.jpg", "Associate Professor, RMIT University", "Stella Stylianou")`
+]
+.w-20[
+`r mentor("teresa_dickinson_2.png", "Deputy Australian Statistician", "Teresa Dickinson")`
+]
+]
+
+
+
+---
+
+# Let's get networking!
+
+```{r}
+countdown(minutes = 10, seconds = 0, play_sound = TRUE, top = 0, warn_when = 60,
+          font_size = "4em")
+```
+
+
+<br><br>
+
+Some questions to get you started
+
+- What made you pursue a career in stats/data science?
+
+
+- What did you study and what skills from those studies do you use in your work?
+
+
+- What do you most like/dislike about your work?
+
+
+- What does a typical work day look like for you?
+
+???
+
+Timer: click to start/stop, esc to reset
+
+---
+
+
+class: inverse middle
+
+# Thank you for attending!
+
+You may now mingle with your fellow attendees. Room booking ends at 8:30 pm.
+
