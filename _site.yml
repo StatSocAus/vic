@@ -13,6 +13,8 @@ navbar:
     image: img/SSA_Monogram_White.png
     href: https://www.statsoc.org.au/
   left:
+   - text: "SSA branch website"
+     href: https://www.statsoc.org.au/Victoria
    - text: "Home"
      href: index.html
      icon: fa-home
